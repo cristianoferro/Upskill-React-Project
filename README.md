@@ -1,4 +1,5 @@
-### Frontend project for the Python Course - Web Development
+### Frontend group project for the Python Course - Web Development
+Group Project (with [Nuno Ribeiro](https://github.com/natsr1000) )
 
 [![Upskill page](https://upskill.pt/wp-content/uploads/2020/03/cropped-APDC_UPSKILLS_Logo-300x83.png)](https://upskill.pt/)
 
