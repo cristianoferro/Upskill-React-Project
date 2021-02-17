@@ -1,10 +1,10 @@
-### Frontend group project for the Python Course - Web Development
-Group Project (with [Nuno Ribeiro](https://github.com/natsr1000) )
+## Frontend Group Project (with [Nuno Ribeiro](https://github.com/natsr1000) )
+### For the Python Course - Web Development
 
 [![Upskill page](https://upskill.pt/wp-content/uploads/2020/03/cropped-APDC_UPSKILLS_Logo-300x83.png)](https://upskill.pt/)
 
 ---
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
