@@ -1,4 +1,4 @@
-## Frontend Group Project (with [Nuno Ribeiro](https://github.com/natsr1000) )
+## Frontend Group Project (with [Nuno Ribeiro](https://github.com/natsr1000) and [Bernardo Augusto](https://github.com/BenAmahara))
 ### For the Python Course - Web Development
 
 [![Upskill page](https://upskill.pt/wp-content/uploads/2020/03/cropped-APDC_UPSKILLS_Logo-300x83.png)](https://upskill.pt/)
