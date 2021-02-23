@@ -1,0 +1,38 @@
+.initial {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.svg-logo {
+  width: 200vw;
+  margin-left: 6vw;
+  top: -15vw;
+  overflow: hidden;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  position: absolute;
+}
+
+.svg-test-style {
+  fill: none;
+  stroke: #828282;
+  stroke-width: 2;
+  stroke-miterlimit: 3;
+
+  background-color: blue;
+}
+.svg-test-style2 {
+  fill: none;
+  stroke: #828282;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+}
+.initial-menu {
+  background-color: rgba(163, 65, 255, 0.322);
+  width: 75vh;
+  height: 40vh;
+  margin: 0 auto;
+  position: relative;
+  top: 40vh;
+}
