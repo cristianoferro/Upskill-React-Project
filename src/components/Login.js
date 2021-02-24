@@ -6,13 +6,11 @@ import { motion } from 'framer-motion';
 const containerVariants = {
     hidden:{
       opacity:0,
-      scale:0,
       x: '2vw'
     },
     visible:{
       opacity:1,
       x:0,
-      scale:[1.2,1],
       transition:{
         type:'spring', 
         delay:0.5
@@ -20,6 +18,7 @@ const containerVariants = {
     },
     exit:{
       x: '-2vw',
+      opacity:0,
       transition: { ease: 'easeInOut' }
     }
   }
@@ -32,12 +31,13 @@ const Login = () => {
             initial="hidden"
             animate="visible"
             exit="exit">
+            <h2 className="title">Log in to Kitchenware</h2>
             <form method="post" className="login-form">
-            <div class="log-input">
+            <div className="log-input">
               <input type="email" id="email" placeholder="Email"/>
             </div>
 
-            <div class="group log-input">
+            <div className="group log-input">
                 <input type="password" id="password" placeholder = "Password"/>
             </div>
               <div className="buttons-wrap">

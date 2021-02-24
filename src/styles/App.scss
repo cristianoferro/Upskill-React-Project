@@ -11,6 +11,7 @@ body {
     rgb(195, 238, 255) 100%
   );
   overflow: hidden;
+  font-family: "Poppins", sans-serif;
 }
 a {
   text-decoration: none;
@@ -25,7 +26,6 @@ select {
   border: none;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
-  text-transform: none;
   outline: none;
   width: 100%;
 }
