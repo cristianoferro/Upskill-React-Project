@@ -27,24 +27,34 @@ const containerVariants = {
 const Login = () => {
 
     return(
-        <div className="login-page">
-            <form>
-                <input type="text"/>
-                <input type="text"/>
-                <input type="text"/>
+        <motion.div className="login-page"
+            variants={containerVariants}
+            initial="hidden"
+            animate="visible"
+            exit="exit">
+            <form method="post" className="login-form">
+            <div class="log-input">
+              <input type="email" id="email" placeholder="Email"/>
+            </div>
 
+            <div class="group log-input">
+                <input type="password" id="password" placeholder = "Password"/>
+            </div>
+              <div className="buttons-wrap">
                 <Link to="/initial">
-                    <motion.button
-                        variants={containerVariants}
-                        initial="hidden"
-                        animate="visible"
-                        exit="exit"
-                    >
-                        Login
-                    </motion.button>
-                </Link>
+                      <button className="log-form-btn">
+                          Login
+                      </button>
+                  </Link>
+                  <Link to="/register">
+                      <button className="log-form-btn register">
+                          Register
+                      </button>
+                  </Link>
+              </div>
+                
             </form>
-        </div>
+        </motion.div>
     )
 }
 

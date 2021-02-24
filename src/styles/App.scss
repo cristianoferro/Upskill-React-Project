@@ -4,13 +4,30 @@ body {
   background: rgb(195, 238, 255);
   background: radial-gradient(
     circle,
-    rgb(0, 0, 0) 0%,
+    //aditional for testing purposes
+    rgb(255, 255, 255) 0%,
     rgb(255, 255, 255) 1%,
     rgb(255, 255, 255) 30%,
     rgb(195, 238, 255) 100%
   );
   overflow: hidden;
 }
+a {
+  text-decoration: none;
+}
 
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+  background: transparent;
+  border: none;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  text-transform: none;
+  outline: none;
+  width: 100%;
+}
 @import "./initial";
 @import "./login";
