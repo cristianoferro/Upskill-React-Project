@@ -31,7 +31,7 @@ const Login = () => {
             animate="visible"
             exit="exit">
             <h2 className="title">Log in to Kitchenware</h2>
-            <form method="post" className="login-form">
+            <form method="post" className="login-form box-element">
             <div className="log-input">
               <input type="email" id="email" placeholder="EMAIL"/>
             </div>

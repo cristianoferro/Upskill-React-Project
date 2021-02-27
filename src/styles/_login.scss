@@ -30,21 +30,13 @@
 }
 
 .login-form {
-  background-image: radial-gradient(
-      closest-side at 60% 55%,
-      #e3fdff 20%,
-      transparent 100%
-    ),
-    linear-gradient(transparent, #f4feffb2 20%, #f4feff 40%),
+  background-image: linear-gradient(transparent, #f4feffb2 20%, #f4feff 40%),
     url("../media/images/0.jpg"); /* W3C */
   background-position: 50% 60%;
   background-size: cover;
   width: 30vw;
   margin: 0 auto 10rem auto;
   padding: 15rem 5rem 5rem 5rem;
-  border: 1px solid #ebebeb;
-  box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
-  border-radius: 2rem;
 }
 
 .buttons-wrap {

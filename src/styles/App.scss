@@ -28,5 +28,13 @@ select {
   outline: none;
   width: 100%;
 }
+
+.box-element {
+  background-color: #f4feff;
+  border: 1px solid #ebebeb;
+  box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
+  border-radius: 2rem;
+}
+
 @import "./initial";
 @import "./login";
