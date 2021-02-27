@@ -1,3 +1,7 @@
+html {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -10,9 +14,10 @@ body {
     rgb(255, 255, 255) 30%,
     rgb(195, 238, 255) 100%
   );
-  overflow: hidden;
+  overflow-x: hidden;
   font-family: "Poppins", sans-serif;
 }
+
 a {
   text-decoration: none;
 }
