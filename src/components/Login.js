@@ -12,8 +12,7 @@ const containerVariants = {
       opacity:1,
       x:0,
       transition:{
-        type:'spring', 
-        delay:0.5
+        type:'EaseInOut'
       }
     },
     exit:{
@@ -34,11 +33,11 @@ const Login = () => {
             <h2 className="title">Log in to Kitchenware</h2>
             <form method="post" className="login-form">
             <div className="log-input">
-              <input type="email" id="email" placeholder="Email"/>
+              <input type="email" id="email" placeholder="EMAIL"/>
             </div>
 
             <div className="group log-input">
-                <input type="password" id="password" placeholder = "Password"/>
+                <input type="password" id="password" placeholder = "PASSWORD"/>
             </div>
               <div className="buttons-wrap">
                 <Link to="/initial">

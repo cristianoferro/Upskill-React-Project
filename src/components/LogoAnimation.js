@@ -7,15 +7,17 @@ import { motion } from 'framer-motion';
       opacity:0,
       pathLength: 0
     },
-    visible: {
+    visible: { 
       pathLength:1,
       opacity:1,
       transition: {
         duration:2,
         ease: "easeInOut"
       }
+    },
+    exit:{
+      pathLength:0,
     }
-    
   }
 
 
@@ -30,7 +32,7 @@ const Login = () => {
             drag
             dragConstraints={{left:0, top:0, right:0, bottom:0}}
             dragElastic={0.1}
-            
+            exit="exit"
             
           >
 
