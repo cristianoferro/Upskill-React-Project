@@ -31,15 +31,19 @@ const Initial = () => {
       initial="hidden"
       animate="visible"
       exit="exit">
-          <div>
-          <LogoAnimation/>
         
-          <div>
-            <nav className="initial-menu">
+        <LogoAnimation/>
 
-            </nav>
-          </div>
-        </div>
+            <div className="float-menu-container">
+              <nav className="initial-menu box-element">
+                <div className="nonsvg-v-line"></div>
+                <div className="nonsvg-h-line"></div>
+                <Link to="/initial" className="menu-elem"><div>MyKitchen</div></Link>
+                <Link to="/initial" className="menu-elem"><div>Search</div></Link>
+                <Link to="/initial" className="menu-elem"><div>Schedule</div></Link>
+                <Link to="/initial" className="menu-elem"><div>Statistics</div></Link>
+              </nav>
+            </div>
                 
       </motion.div>
     )
