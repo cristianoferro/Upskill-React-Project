@@ -25,7 +25,7 @@ const Login = () => {
 
     return(
         
-          <motion.svg className="svg-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"
+          <motion.svg className="svg-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 843 335"
             variants={pathVariants}
             initial="hidden"
             animate="visible"
