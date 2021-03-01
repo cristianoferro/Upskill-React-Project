@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Route, Switch, useLocation } from "react-router-dom";
+import Login from './components/Login';
+import Initial from './components/Initial';
+import { AnimatePresence } from 'framer-motion';
+import "./styles/App.scss";
 
 function App() {
+  
+  // give the location of the router
+  const location = useLocation();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>  
+        {/* Animates when page disappears */}
+        <AnimatePresence exitBeforeEnter>
+          <Switch location={location} key={location.key}>
+            <Route path="/"exact>
+              <Login/>
+            </Route>
+            <Route path="/initial">
+              <Initial/>
+            </Route>
+          </Switch>
+        </AnimatePresence>
+        
+    </>
   );
 }
 

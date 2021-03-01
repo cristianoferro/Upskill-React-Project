@@ -1,0 +1,110 @@
+.float-menu-container {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  width: 100vw;
+}
+.initial {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.svg-logo {
+  width: 200vw;
+  margin-left: 6vw;
+  top: -15vw;
+  overflow: hidden;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  position: absolute;
+}
+
+.svg-test-style {
+  fill: none;
+  stroke: #828282;
+  stroke-width: 2;
+  stroke-miterlimit: 3;
+
+  background-color: blue;
+}
+.svg-test-style2 {
+  fill: none;
+  stroke: #828282;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+}
+.initial-menu {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f4feff;
+  width: 30vw;
+  height: 40vh;
+  margin: 0 auto;
+  position: fixed;
+  top: 45vh;
+}
+.menu-elem-intro {
+  width: 50%;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  align-self: center;
+  font-family: "Teko", sans-serif;
+  color: #828282;
+  font-size: 2rem;
+}
+
+.menu-elem {
+  height: 50%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  align-self: center;
+  font-family: "Teko", sans-serif;
+  color: #828282;
+  font-size: 2rem;
+  transition: 1s;
+}
+.nonsvg-h-line {
+  position: absolute;
+  width: 100%;
+  height: 0.5rem;
+  background-color: white;
+  align-self: center;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 0 0.15rem 0.15rem inset #d3d3d333;
+  transition: 1s;
+}
+.nonsvg-v-line {
+  position: absolute;
+  height: 100%;
+  width: 0.5rem;
+  background-color: white;
+  align-self: center;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 0 0.15rem 0.15rem inset #d3d3d333;
+  transition: 1s;
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .initial-menu {
+    width: 75vw;
+  }
+  .svg-logo {
+    width: 300vw;
+    margin-left: -15vw;
+  }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+  .initial-menu {
+    width: 50vw;
+  }
+}
