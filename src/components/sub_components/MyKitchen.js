@@ -1,4 +1,4 @@
-const Inventários = () => {
+const Search2 = () => {
     return
 }
 const Menus = () => {
@@ -14,10 +14,11 @@ const Alertas = () => {
 const MyKitchen = () => {
     return(
         <nav>
-            <button onClick={Inventários} >Inventários</button>
+            <Link to="/item-list" >Inventários</Link>
             <button onClick={Menus} >Menus</button>
             <button onClick={Receitas} >Receitas</button>
             <button onClick={Alertas} >Alertas</button>
+            <input type="search"/>
         </nav>
     )
 }
