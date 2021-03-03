@@ -1,0 +1,87 @@
+.login-page {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.title {
+  font-family: "Teko", sans-serif;
+  display: block;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 5vw;
+  color: #828282;
+}
+.log-input {
+  display: block;
+  color: #828282;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #616161;
+  padding: 2.5rem 0 0.2rem 0;
+}
+.log-input:focus {
+  outline: none;
+}
+
+.login-form {
+  background-image: linear-gradient(transparent, #f4feffb2 20%, #f4feff 40%),
+    url("../media/images/0.jpg"); /* W3C */
+  background-position: 50% 60%;
+  background-size: cover;
+  width: 30vw;
+  margin: 0 auto 10rem auto;
+  padding: 15rem 5rem 5rem 5rem;
+}
+
+.buttons-wrap {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 8vh;
+  a {
+    width: 100%;
+    margin: 0 2vw;
+  }
+}
+
+.log-form-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1vw;
+  width: 100%;
+  height: 4vh;
+  border-radius: 0.4vw;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(74, 126, 146);
+  color: #fff;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+  outline: none;
+}
+.register {
+  border: #d1d1d1 0.2rem solid;
+  background-color: transparent;
+  color: black;
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .title {
+    font-size: 10vw;
+  }
+  .login-form {
+    width: 60vw;
+  }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+}
