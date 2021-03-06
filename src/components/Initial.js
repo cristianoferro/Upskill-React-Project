@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import LogoAnimation from './LogoAnimation'
@@ -31,7 +31,7 @@ const Initial = () => {
       initial="hidden"
       animate="visible"
       exit="exit">
-        
+      
         <LogoAnimation/>
 
             <div className="float-menu-container">
@@ -44,6 +44,8 @@ const Initial = () => {
                 <Link to="/initial" className="menu-elem"><div>Statistics</div></Link>
               </nav>
             </div>
+            
+            <div className="initial-background"></div>
                 
       </motion.div>
     )
