@@ -9,15 +9,36 @@ import Schedule from './components/sub_components/Schedule';
 import Statistics from './components/sub_components/Statistics';
 import Search from './components/sub_components/Search';
 import ItemList from './components/sub_components/ItemList';
+import { useState, useRef } from "react";
+import { uuid } from 'uuidv4';
+
 
 function App() {
-  
-  // give the location of the router
+
   const location = useLocation();
+  
+  const[submit, setSubmit] = useState("submit");
+    const [items, setItems] = useState([]);
+
+    const submitClickHandler = (event) => {
+        const inputRef = useRef(null)
+
+        event.preventDefault();
+        setSubmit("Submitted");
+
+        const itemObject = {
+        id: uuid(),
+        text: inputRef.current.value,
+        liked: false
+        }
+
+        inputRef.current.value = "";
+        const newItems = [...items, itemObject]
+        setItems(newItems)
+  }
 
   return (
     <>  
-        {/* Animates when page disappears */}
         <AnimatePresence exitBeforeEnter>
           <Switch location={location} key={location.key}>
             <Route path="/"exact>

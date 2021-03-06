@@ -1,26 +1,22 @@
-const Search2 = () => {
-    return
-}
-const Menus = () => {
-    return
-}
-const Receitas = () => {
-    return
-}
-const Alertas = () => {
-    return
-}
+import {Link} from 'react-router-dom';
+import {inputRef, submitClickHandler, submit} from '../../App.js'
 
 const MyKitchen = () => {
     return(
+        
+        <div>
+        <form>
+            <input type="text" placeholder="Item" ref={inputRef}/>
+            <button onClick={submitClickHandler} type="submit">{submit}</button>
+        </form>
         <nav>
             <Link to="/item-list" >Inventários</Link>
-            <button onClick={Menus} >Menus</button>
-            <button onClick={Receitas} >Receitas</button>
-            <button onClick={Alertas} >Alertas</button>
-            <input type="search"/>
+            <Link to="/menus" >Menus</Link>
+            <Link to="/receitas" >Receitas</Link>
+            <Link to="/alertas" >Alertas</Link>
+            <Link to="">Search</Link>
         </nav>
+        </div> 
     )
 }
-
 export default MyKitchen;
