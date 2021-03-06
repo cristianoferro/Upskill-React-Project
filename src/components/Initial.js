@@ -6,8 +6,10 @@ import LogoAnimation from './LogoAnimation'
 const variants = {
   clickedMenuItem: { width: "80%" , height: "13%", textAlign: "start"},
   hamburguerShow: { opacity: 1 },
-  menuSide: { 
-              opacity:0,
+  menuSide: { top: "2vh",
+              left: "2vw",
+              width: "15vw",
+              opacity:1,
               transition: {
                 duration:2,
                 ease: "easeInOut"
