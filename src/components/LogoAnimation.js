@@ -16,6 +16,7 @@ import { motion } from 'framer-motion';
     },
     exit:{
       pathLength:0,
+      opacity:0
     }
   }
 
