@@ -1,7 +1,6 @@
 import {Link} from 'react-router-dom';
-import {inputRef, submitClickHandler, submit} from '../../App.js'
 
-const MyKitchen = () => {
+const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
     return(
         
         <div>

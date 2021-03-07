@@ -16,12 +16,11 @@ import { uuid } from 'uuidv4';
 function App() {
 
   const location = useLocation();
-  
+  const inputRef = useRef(null)
   const[submit, setSubmit] = useState("submit");
     const [items, setItems] = useState([]);
 
     const submitClickHandler = (event) => {
-        const inputRef = useRef(null)
 
         event.preventDefault();
         setSubmit("Submitted");
@@ -48,7 +47,7 @@ function App() {
               <Initial/>
             </Route>
             <Route path="/mykitchen">
-              <MyKitchen/>
+              <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
             </Route>
             <Route path="/schedule">
               <Schedule/>
