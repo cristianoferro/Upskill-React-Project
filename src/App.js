@@ -49,7 +49,7 @@ function App() {
               <Initial/>
             </Route>
             <Route path="/mykitchen">
-              <MyKitchen/>
+              <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
             </Route>
             <Route path="/schedule">
               <Schedule/>

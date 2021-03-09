@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import LogoAnimation from './LogoAnimation';
@@ -27,15 +27,15 @@ const initialVariants = {
 const Initial = () => {
   
     return(
-      <motion.div className="initial"
-      variants={initialVariants}
-      initial="hidden"
-      animate="visible"
-      exit="exit">
-        
+      <div className="initial">
+      
         <LogoAnimation/>
 
-            <div className="float-menu-container">
+            <motion.div className="float-menu-container"
+              variants={initialVariants}
+              initial="hidden"
+              animate="visible"
+              exit="exit">
               <nav className="initial-menu box-element">
                 <div className="nonsvg-v-line"></div>
                 <div className="nonsvg-h-line"></div>
@@ -44,9 +44,11 @@ const Initial = () => {
                 <Link to="/schedule" className="menu-elem"><div>Schedule</div></Link>
                 <Link to="/statistics" className="menu-elem"><div>Statistics</div></Link>
               </nav>
-            </div>
+            </motion.div>
+            
+            <div className="initial-background"></div>
                 
-      </motion.div>
+      </div>
     )
 }
 

@@ -5,6 +5,16 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background: #ffffff;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+}
+
+.initial-background {
+  position: absolute;
+  z-index: -10;
+  width: 100vw;
+  height: 100vh;
   background: rgb(195, 238, 255);
   background: radial-gradient(
     circle,
@@ -14,8 +24,6 @@ body {
     rgb(255, 255, 255) 30%,
     rgb(195, 238, 255) 100%
   );
-  overflow-x: hidden;
-  font-family: "Poppins", sans-serif;
 }
 
 a {
