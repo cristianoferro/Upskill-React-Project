@@ -1,3 +1,4 @@
+
 .my-kitchen-nav {
   overflow: hidden;
   position: fixed;
@@ -22,6 +23,33 @@
     &:visited {
       background-color: rgb(24, 30, 31);
       color: rgb(8, 44, 247);
+    }
+  }
+}
+.mykitchen-menu {
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  a {
+    height: 50%;
+    border-radius: 4pt;
+    width: 50%;
+    padding: 0.3rem;
+    margin: 0.5rem;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: "Teko", sans-serif;
+    color: #828282;
+    font-size: 2rem;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 8px steelblue;
+    &:visited {
+      background-color: rgb(21, 219, 245);
+      color: whitesmoke;
     }
   }
 }

@@ -8,7 +8,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
             <input type="text" placeholder="Item" ref={inputRef}/>
             <button onClick={submitClickHandler} type="submit">{submit}</button>
         </form>
-        <nav>
+        <nav className="mykitchen-menu">
             <Link to="/item-list" >Inventários</Link>
             <Link to="/menus" >Menus</Link>
             <Link to="/receitas" >Receitas</Link>

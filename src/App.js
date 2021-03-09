@@ -70,6 +70,7 @@ function App() {
             </Route>
           </Switch>
         </AnimatePresence>
+        <div className="initial-background"></div>
         
     </>
   );
