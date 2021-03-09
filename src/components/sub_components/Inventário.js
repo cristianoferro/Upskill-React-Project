@@ -1,5 +1,5 @@
 import Item from "./Item.js"
-
+import {Link} from 'react-router-dom';
 const Inventário = ({items,
                 setItems,
                 inputRef,
