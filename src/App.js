@@ -8,7 +8,7 @@ import MyKitchen from './components/MyKitchen';
 import Schedule from './components/Schedule';
 import Statistics from './components/Statistics';
 import Search from './components/Search';
-import ItemList from './components/sub_components/ItemList';
+import Inventário from './components/sub_components/Inventário';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
 
@@ -49,7 +49,7 @@ function App() {
               <Initial/>
             </Route>
             <Route path="/mykitchen">
-              <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
+              <MyKitchen/>
             </Route>
             <Route path="/schedule">
               <Schedule/>
@@ -60,8 +60,13 @@ function App() {
             <Route path="/statistics">
               <Statistics/>
             </Route>
-            <Route path="/item-list">
-              <ItemList color="pink" items={items} setItems={setItems}/>
+            <Route path="/inventário">
+              <Inventário color="pink"
+                          items={items} 
+                          setItems={setItems}
+                          inputRef={inputRef}
+                          submitClickHandler={submitClickHandler}
+                          submit={submit}/>
             </Route>
           </Switch>
         </AnimatePresence>
