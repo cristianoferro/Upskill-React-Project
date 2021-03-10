@@ -1,7 +1,9 @@
 import React from 'react';
 import { Route, Switch, useLocation } from "react-router-dom";
+import Background from './components/Background';
 import Login from './components/Login';
 import Initial from './components/Initial';
+import InterfaceContainer from './components/InterfaceContainer'
 import { AnimatePresence } from 'framer-motion';
 import "./styles/App.scss";
 import MyKitchen from './components/MyKitchen';
@@ -39,7 +41,7 @@ function App() {
   }
 
   return (
-    <>  
+    <>          
         <AnimatePresence exitBeforeEnter>
           <Switch location={location} key={location.key}>
             <Route path="/"exact>
@@ -48,29 +50,33 @@ function App() {
             <Route path="/initial">
               <Initial/>
             </Route>
-            <Route path="/mykitchen">
-              <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
-            </Route>
-            <Route path="/schedule">
-              <Schedule/>
-            </Route>
-            <Route path="/search">
-              <Search/>
-            </Route>
-            <Route path="/statistics">
-              <Statistics/>
-            </Route>
-            <Route path="/inventário">
-              <Inventário color="pink"
-                          items={items} 
-                          setItems={setItems}
-                          inputRef={inputRef}
-                          submitClickHandler={submitClickHandler}
-                          submit={submit}/>
-            </Route>
+            <InterfaceContainer>
+              <Route path="/mykitchen">
+                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
+              </Route>
+              <Route path="/schedule">
+                <Schedule/>
+              </Route>
+              <Route path="/search">
+                <Search/>
+              </Route>
+              <Route path="/statistics">
+                <Statistics/>
+              </Route>
+              <Route path="/inventário">
+                <Inventário color="pink"
+                            items={items} 
+                            setItems={setItems}
+                            inputRef={inputRef}
+                            submitClickHandler={submitClickHandler}
+                            submit={submit}/>
+              </Route>
+            </InterfaceContainer>
           </Switch>
         </AnimatePresence>
-        <div className="initial-background"></div>
+
+        
+        <Background/>
         
     </>
   );

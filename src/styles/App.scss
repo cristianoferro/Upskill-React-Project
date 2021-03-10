@@ -10,14 +10,17 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.initial-background {
+.bkg-container {
   top: 0;
   position: absolute;
   z-index: -100;
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background: rgb(195, 238, 255);
+}
+
+.bkg-gradient {
+  // background: rgb(195, 238, 255);
   background: radial-gradient(
     circle,
     //aditional for testing purposes
@@ -26,6 +29,16 @@ body {
     rgb(255, 255, 255) 30%,
     rgb(195, 238, 255) 100%
   );
+}
+.bkg-flat {
+  background: rgb(255, 255, 255);
+}
+
+.interface-container {
+  margin: 1.5625vh 1.5625vw; //1.5625
+  width: 96.875vw;
+  height: 96.875vh;
+  position: relative;
 }
 
 a {
