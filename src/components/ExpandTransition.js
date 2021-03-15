@@ -6,30 +6,27 @@ const expand = {
         scale:0
     },
     visible:{},
-    exiting:{
+    exit:{
         scale: 30,
         opacity:1,
         transition:{
-            duration:2
+            duration:1
         }
-    },
-    noExit:{
-        opacity:0
     }
 }
 
-const ExpandTransition = ({forward}) => {
+const ExpandTransition = () => {
     return(
-
+        <div className="expand-main-container">
         <motion.div className="expand-anim-container"
             variants={expand}
             initial="hidden"
             animate="visible"
-            exit={forward ? "exit" : "noExit"}>
-            {/*   */}
+            exit="exit">
             <div className="circle-cover-transition">
             </div>
         </motion.div>
+        </div>
     )
 }
 export default ExpandTransition;
