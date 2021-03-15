@@ -13,6 +13,18 @@ import Inventario from './components/sub_components/Inventario';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
 
+const useStorageRetriever = (key, initialState) => {
+  const [value, setValue] = React.useState(
+    localStorage.getItem(key) || initialState
+  );
+ 
+  React.useEffect(() => {
+    localStorage.setItem(key, value);
+  }, [value, key]);
+
+  return [value, setValue];
+
+ };
 
 function App() {
 
@@ -35,8 +47,10 @@ function App() {
       },
   }
   const location = useLocation();
+
+
   const inputRef = useRef(null);
-  
+
   const [submit, setSubmit] = useState("submit");
   const [items, setItems] = useState([]);
 
