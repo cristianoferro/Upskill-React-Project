@@ -10,7 +10,7 @@ import MyKitchen from './components/MyKitchen';
 import Schedule from './components/Schedule';
 import Statistics from './components/Statistics';
 import Search from './components/Search';
-import Inventário from './components/sub_components/Inventário';
+import Inventario from './components/sub_components/Inventario';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
 
@@ -20,10 +20,10 @@ function App() {
   const location = useLocation();
   const inputRef = useRef(null);
   
-  const[submit, setSubmit] = useState("submit");
-    const [items, setItems] = useState([]);
+  const [submit, setSubmit] = useState("submit");
+  const [items, setItems] = useState([]);
 
-    const submitClickHandler = (event) => {
+  const submitClickHandler = (event) => {
         
 
         event.preventDefault();
@@ -40,6 +40,12 @@ function App() {
         setItems(newItems)
   }
 
+  const useMenuClick = (event) => {
+
+    // event.preventDefault();
+
+  }
+
   return (
     <>          
         <AnimatePresence exitBeforeEnter>
@@ -48,7 +54,7 @@ function App() {
               <Login/>
             </Route>
             <Route path="/initial">
-              <Initial/>
+              <Initial useMenuClick={useMenuClick} />
             </Route>
             <InterfaceContainer>
               <Route path="/mykitchen">
@@ -64,7 +70,7 @@ function App() {
                 <Statistics/>
               </Route>
               <Route path="/inventário">
-                <Inventário color="pink"
+                <Inventario color="pink"
                             items={items} 
                             setItems={setItems}
                             inputRef={inputRef}

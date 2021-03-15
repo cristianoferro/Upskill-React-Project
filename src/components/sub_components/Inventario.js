@@ -2,7 +2,7 @@ import Item from "./Item.js"
 import {Link} from 'react-router-dom';
 import { useEffect, useState } from "react";
 
-const Inventário = ({items,
+const Inventario = ({items,
                 setItems,
                 inputRef,
                 submitClickHandler,
@@ -63,4 +63,4 @@ const Inventário = ({items,
     )
 }
 
-export default Inventário;
+export default Inventario;

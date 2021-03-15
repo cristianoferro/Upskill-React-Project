@@ -24,9 +24,8 @@ const initialVariants = {
     },
 }
 
-const Initial = () => {
+const Initial = ({ useMenuClick }) => {
     let initialMenuLinks = ['MyKitchen', 'Search', 'Schedule', 'Statistics'];
-    const [isMenuClicked, setIsMenuClicked] = useState(false)
 
     return(
       <div className="initial">
@@ -45,14 +44,14 @@ const Initial = () => {
                   <Link to={"/",menuElem}
                     className="menu-elem"
                     key={index}
-                    onClick={() => setIsMenuClicked(!isMenuClicked)}
+                    onClick={useMenuClick}
                     >
                       <div>{menuElem}</div>
                   </Link>
                 ))}
               </nav>
             </motion.div>
-            <ExpandTransition isMenuClicked={isMenuClicked}/>
+            <ExpandTransition useMenuClick={useMenuClick}/>
             
             
                 
