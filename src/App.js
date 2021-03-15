@@ -1,9 +1,8 @@
 import React from 'react';
 import { Route, Switch, useLocation } from "react-router-dom";
-import Background from './components/Background';
 import Login from './components/Login';
 import Initial from './components/Initial';
-import InterfaceContainer from './components/InterfaceContainer'
+import InterfaceContainer from './components/InterfaceContainer';
 import { AnimatePresence } from 'framer-motion';
 import "./styles/App.scss";
 import MyKitchen from './components/MyKitchen';
@@ -17,6 +16,24 @@ import { uuid } from 'uuidv4';
 
 function App() {
 
+  const globalVariants = {
+    hidden: {
+      opacity:0,
+    },
+    visible: {
+      opacity:1,
+      transition: {
+        duration:1,
+        ease: "easeInOut"
+      }
+    },
+    exit:{
+      opacity:0,
+      transition: { 
+        duration:0.5,
+        ease: 'easeInOut' }
+      },
+  }
   const location = useLocation();
   const inputRef = useRef(null);
   
@@ -40,11 +57,6 @@ function App() {
         setItems(newItems)
   }
 
-  const useMenuClick = (event) => {
-
-    // event.preventDefault();
-
-  }
 
   return (
     <>          
@@ -54,11 +66,11 @@ function App() {
               <Login/>
             </Route>
             <Route path="/initial">
-              <Initial useMenuClick={useMenuClick} />
+              <Initial/>
             </Route>
-            <InterfaceContainer>
+            <InterfaceContainer globalVariants={globalVariants}>
               <Route path="/mykitchen">
-                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} />
+                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} globalVariants={globalVariants}/>
               </Route>
               <Route path="/schedule">
                 <Schedule/>
@@ -80,10 +92,6 @@ function App() {
             </InterfaceContainer>
           </Switch>
         </AnimatePresence>
-
-        
-        <Background/>
-        
     </>
   );
 }
