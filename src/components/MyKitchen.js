@@ -1,21 +1,20 @@
-import {Link} from 'react-router-dom';
+import MyKitchenMenu from './MyKitchenMenu';
+import { motion } from 'framer-motion';
 
-const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
+const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants}) => {
     return(
         
-        <div>
+        <motion.div
+        variants={globalVariants}
+        initial="hidden"
+        animate="visible"
+        exit="exit">
         <form>
             <input type="text" placeholder="Item" ref={inputRef}/>
             <button onClick={submitClickHandler} type="submit">{submit}</button>
         </form>
-        <nav className="mykitchen-menu">
-            <Link to="/inventario" >Inventários</Link>
-            <Link to="/menus" >Menus</Link>
-            <Link to="/receitas" >Receitas</Link>
-            <Link to="/alertas" >Alertas</Link>
-            <Link to="">Search</Link>
-        </nav>
-        </div> 
+        <MyKitchenMenu/>
+        </motion.div> 
     )
 }
 export default MyKitchen;
