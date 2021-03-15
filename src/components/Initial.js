@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import Background from './Background';
 import LogoAnimation from './LogoAnimation';
-import ExpandTransition from './ExpandTransition'
+import ExpandTransition from './ExpandTransition';
+
 const initialVariants = {
   hidden: {
     opacity:0,
@@ -24,7 +26,7 @@ const initialVariants = {
     },
 }
 
-const Initial = ({ useMenuClick }) => {
+const Initial = () => {
     let initialMenuLinks = ['MyKitchen', 'Search', 'Schedule', 'Statistics'];
 
     return(
@@ -44,17 +46,16 @@ const Initial = ({ useMenuClick }) => {
                   <Link to={"/",menuElem}
                     className="menu-elem"
                     key={index}
-                    onClick={useMenuClick}
                     >
                       <div>{menuElem}</div>
                   </Link>
                 ))}
               </nav>
             </motion.div>
-            <ExpandTransition useMenuClick={useMenuClick}/>
+            <ExpandTransition/>
             
             
-                
+            <Background/>
       </div>
     )
 }

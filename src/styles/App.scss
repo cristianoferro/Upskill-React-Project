@@ -35,10 +35,11 @@ body {
 }
 
 .interface-container {
-  margin: 1.5625vh 1.5625vw; //1.5625
-  width: 96.875vw;
-  height: 96.875vh;
+  margin: 3.125vh 3.125vw; //1.5625
+  width: 93.75vw;
+  height: 93.75vh;
   position: relative;
+  background-color: #ffffff;
 }
 
 a {
@@ -58,13 +59,12 @@ select {
 }
 
 .box-element {
-  background-color: #f4feff;
-  border: 1px solid #ebebeb;
+  background-color: #e6fdff;
   box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
   border-radius: 2rem;
 }
 
-.expand-anim-container {
+.expand-main-container {
   position: absolute;
   z-index: 1000;
   display: flex;
@@ -72,11 +72,24 @@ select {
   align-items: center;
   height: 100vh;
   width: 100vw;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.expand-anim-container {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
   // display: none;
   transform: scale(0);
 }
 .circle-cover-transition {
   border-radius: 50%;
+  overflow: hidden;
   background-color: white;
   width: 0;
   height: 0;
