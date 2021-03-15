@@ -10,6 +10,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 .bkg-container {
   top: 0;
   position: absolute;
@@ -34,17 +38,6 @@ body {
   background: rgb(255, 255, 255);
 }
 
-.interface-container {
-  margin: 3.125vh 3.125vw; //1.5625
-  width: 93.75vw;
-  height: 93.75vh;
-  position: relative;
-  background-color: #ffffff;
-}
-
-a {
-  text-decoration: none;
-}
 
 input[type="text"],
 input[type="email"],
@@ -58,9 +51,20 @@ select {
   width: 100%;
 }
 
+//Containers
+
+.interface-container {
+  margin: 3.125vh 3.125vw; //1.5625
+  width: 93.75vw;
+  height: 93.75vh;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
 .box-element {
   background-color: #e6fdff;
-  box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
+  box-shadow: #d3d3d38a 0 0 1rem 0, #d3d3d38a 0 0 1rem 0;
   border-radius: 2rem;
 }
 
@@ -84,7 +88,6 @@ select {
   height: 100vh;
   width: 100vw;
   overflow: hidden;
-  // display: none;
   transform: scale(0);
 }
 .circle-cover-transition {
@@ -96,11 +99,28 @@ select {
   box-shadow: #ffffff 0 0 1rem 2rem;
 }
 
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .title {
+    font-size: 10vw;
+  }
+  .login-form {
+    width: 60vw;
+  }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+
 @import "./initial";
 @import "./login";
+@import "./Inventário.scss";
+@import "./Item.module.css";
+// @import "./Menu.scss";
 @import "./MyKitchen.scss";
 @import "./Schedule.scss";
 @import "./Search.scss";
 @import "./Statistics.scss";
-@import "./Inventário.scss";
-@import "./Item.module.css";
+
