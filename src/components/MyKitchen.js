@@ -1,14 +1,19 @@
 import {Link} from 'react-router-dom';
 
-const MyKitchen = () => {
+const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
     return(
+        
         <div>
-        <nav className='my-kitchen-nav' >
-            <Link to="/inventário" className='nav-item' >Inventário</Link>
-            <Link to="/menus" className='nav-item' >Menus</Link>
-            <Link to="/receitas" className='nav-item' >Receitas</Link>
-            <Link to="/alertas" className='nav-item' >Alertas</Link>
-            <Link to="" className='nav-item' >Search</Link>
+        <form>
+            <input type="text" placeholder="Item" ref={inputRef}/>
+            <button onClick={submitClickHandler} type="submit">{submit}</button>
+        </form>
+        <nav className="mykitchen-menu">
+            <Link to="/inventario" >Inventários</Link>
+            <Link to="/menus" >Menus</Link>
+            <Link to="/receitas" >Receitas</Link>
+            <Link to="/alertas" >Alertas</Link>
+            <Link to="">Search</Link>
         </nav>
         </div> 
     )
