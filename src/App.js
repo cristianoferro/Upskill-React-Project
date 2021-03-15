@@ -12,6 +12,9 @@ import Search from './components/Search';
 import Inventario from './components/sub_components/Inventario';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
+import UpperBar from './components/UpperBar'
+import SearchBar from './components/SearchBar'
+
 
 
 function App() {
@@ -35,8 +38,10 @@ function App() {
       },
   }
   const location = useLocation();
+
+
   const inputRef = useRef(null);
-  
+
   const [submit, setSubmit] = useState("submit");
   const [items, setItems] = useState([]);
 
@@ -70,7 +75,8 @@ function App() {
             </Route>
             <InterfaceContainer globalVariants={globalVariants}>
               <Route path="/mykitchen">
-                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} globalVariants={globalVariants}/>
+                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} globalVariants={globalVariants}>
+                </MyKitchen>
               </Route>
               <Route path="/schedule">
                 <Schedule/>
@@ -81,7 +87,7 @@ function App() {
               <Route path="/statistics">
                 <Statistics/>
               </Route>
-              <Route path="/inventário">
+              <Route path="/inventario">
                 <Inventario color="pink"
                             items={items} 
                             setItems={setItems}

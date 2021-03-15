@@ -22,7 +22,7 @@ body {
   -ms-transition: all 1s ease; /* Opera */
   transition: all 1s ease;
 }
-//remover - tablet app não faz sentido ter hover
+
 .card-body:hover {
   -webkit-transform: scale(1.05);
   -moz-transform: scale(1.05);
