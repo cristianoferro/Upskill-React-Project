@@ -52,20 +52,19 @@ select {
 }
 
 //Containers
+.box-element {
+  background-color: #e6fdff;
+  box-shadow: #d3d3d38a 0 0 1rem 0, #d3d3d38a 0 0 1rem 0;
+  border-radius: 2rem;
+}
 
 .interface-container {
   margin: 3.125vh 3.125vw; //1.5625
   width: 93.75vw;
   height: 93.75vh;
   position: relative;
-  background-color: #ffffff;
+  background-color: #dddddd;
   overflow: hidden;
-}
-
-.box-element {
-  background-color: #e6fdff;
-  box-shadow: #d3d3d38a 0 0 1rem 0, #d3d3d38a 0 0 1rem 0;
-  border-radius: 2rem;
 }
 
 .expand-main-container {
@@ -99,6 +98,15 @@ select {
   box-shadow: #ffffff 0 0 1rem 2rem;
 }
 
+.upper-bar{
+  height: 12.5vh;
+  border-bottom-left-radius:0% ;
+  border-bottom-right-radius: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Portrait */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
   .title {
@@ -123,4 +131,4 @@ select {
 @import "./Schedule.scss";
 @import "./Search.scss";
 @import "./Statistics.scss";
-
+@import "./SearchContainer"
