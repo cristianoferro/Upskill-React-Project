@@ -10,7 +10,7 @@ const UpperBar = ({globalVariants, children}) => {
                 initial="hidden"
                 animate="visible"
                 exit="exit">
-                    <div class="home-link">
+                    <div className="home-link">
                         <Link to="/initial">
                             <img src={home} alt="home"></img>
                         </Link>
