@@ -51,6 +51,21 @@ select {
   width: 100%;
 }
 
+// scrollbar
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #e6fdff;
+}
+
 //Containers
 .box-element {
   background-color: #e6fdff;
@@ -63,7 +78,7 @@ select {
   width: 93.75vw;
   height: 93.75vh;
   position: relative;
-  background-color: #dddddd;
+  background-color: #EEEEEE;
   overflow: hidden;
 }
 
