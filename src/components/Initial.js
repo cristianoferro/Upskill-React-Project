@@ -27,7 +27,7 @@ const initialVariants = {
 }
 
 const Initial = () => {
-    let initialMenuLinks = ['MyKitchen', 'Search', 'Schedule', 'Statistics'];
+    let initialMenuLinks = ['MyKitchen', 'Alertas'];
 
     return(
       <div className="initial">
@@ -41,7 +41,6 @@ const Initial = () => {
               exit="exit">
               <nav className="initial-menu box-element">
                 <div className="nonsvg-v-line"></div>
-                <div className="nonsvg-h-line"></div>
                 {initialMenuLinks.map((menuElem,index) => (
                   <Link to={"/",menuElem}
                     className="menu-elem"

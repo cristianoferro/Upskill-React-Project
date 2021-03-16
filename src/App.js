@@ -12,9 +12,6 @@ import Search from './components/Search';
 import Inventario from './components/sub_components/Inventario';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
-import UpperBar from './components/UpperBar'
-import SearchBar from './components/SearchBar'
-
 
 
 function App() {
@@ -38,7 +35,6 @@ function App() {
       },
   }
   const location = useLocation();
-
 
   const inputRef = useRef(null);
 
