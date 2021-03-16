@@ -7,6 +7,8 @@ import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
 import defaultItemImg from '../media/images/0.jpg';
 import Close from './Close';
+import inventory from '../data/inventory.json';
+import alerts from '../data/alerts.json';
 
 const useStorageRetriever = (key, initialState) => {
     const [value, setValue] = useState(
@@ -22,135 +24,29 @@ const useStorageRetriever = (key, initialState) => {
    };
 
 const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, children}) => {
-    const inventario_teste = [
-        {
-            itemID: 0,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 1,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {
-            itemID: 2,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 3,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {
-            itemID: 4,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 5,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {
-            itemID: 6,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 7,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {   
-            itemID: 8,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {
-            itemID: 9,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 10,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {
-            itemID: 11,
-            Nome_do_Item:"FORNO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:4,
-            Custo_Unitário:1999.28,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:"7997,12",
-        },
-        {   
-            itemID: 12,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        },
-        {   
-            itemID: 13,
-            Nome_do_Item:"MÁQUINA DE GELO",
-            Tipo_de_Item:"EQUIPAMENTO DE CAPITAL",
-            Quantidade_Necessária:1,
-            Custo_Unitário:165.66,
-            Moeda_do_Preço:"Euro",
-            Custo_Total:165.66,
-        }
-        ];
-        
+    
+    
+    // console.log(alerts.alerts[0].alertsitems[0])
+    // inventory.inventory[0].inventoryitems.map((inventoryItem, keyID) => {
+    //   console.log(inventoryItem.itemsinventory[0].labels.displayName);
+    //   console.log(inventoryItem.itemsinventory[0].labelsitems.displayName);
+    //   console.log(inventoryItem.itemsinventory[0].quantitySize.displayName);
+    //   console.log(inventoryItem.itemsinventory[0].quantitySize.quantity);
+    //   console.log(inventoryItem.itemsinventory[0].unitPrice.displayName);
+    //   console.log(inventoryItem.itemsinventory[0].unitPrice.units);
+    //   console.log(inventoryItem.itemsinventory[0].totalPrice.displayName);
+    //   console.log(inventoryItem.itemsinventory[0].totalPrice.units);
+    //   console.log(inventoryItem.itemsinventory[0].mediaFormat);
+    //   console.log(inventoryItem.itemsinventory[0].locationAssociation.category);
+    //   console.log("---------------------------------------------")
+    // })
+
+    // const categoriaInventario = alerts.filter(item =>
+    //     item.Nome_do_Item.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    //     item.Tipo_de_Item.toLowerCase().includes(searchTerm.toLowerCase()) 
+    // );
+    
+    // console.log(categoriaInventario);
 
     // the in local storage will be 'search', the initial value will be 'React'
     const [searchTerm, setSearchTerm] = useStorageRetriever(
@@ -164,10 +60,32 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
     };
 
     // filtered items
-    const searchedInventario = inventario_teste.filter(item =>
-        item.Nome_do_Item.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        item.Tipo_de_Item.toLowerCase().includes(searchTerm.toLowerCase()) 
+    const searchedInventario = inventory.inventory[0].inventoryitems.filter(inventoryItem =>
+        inventoryItem.itemsinventory[0].labels.displayName.includes(searchTerm.toLowerCase()) ||
+        inventoryItem.itemsinventory[0].labels.displayName.includes(searchTerm.toLowerCase()) 
     );
+    // console.log(searchedInventario);
+    alerts.alerts[0].alertsitems.map((searchedAlerts, key) => {
+      console.log(searchedAlerts.itemsalert[0].labels.displayName);
+      console.log(searchedAlerts.itemsalert[0].labelsitems.displayName);
+      console.log(searchedAlerts.itemsalert[0].quantitySize.displayName);
+      console.log(searchedAlerts.itemsalert[0].quantitySize.quantity);
+      console.log(searchedAlerts.itemsalert[0].quantityStock.displayName);
+      console.log(searchedAlerts.itemsalert[0].quantityStock.quantity);
+      console.log(searchedAlerts.itemsalert[0].manteinanceAlert.displayName);
+      console.log(searchedAlerts.itemsalert[0].manteinanceAlert.quantity);
+      console.log(searchedAlerts.itemsalert[0].buyAlert.displayName);
+      console.log(searchedAlerts.itemsalert[0].buyAlert.quantity);
+      console.log(searchedAlerts.itemsalert[0].urgentBuy.displayName);
+      console.log(searchedAlerts.itemsalert[0].urgentBuy.description);
+      console.log(searchedAlerts.itemsalert[0].urgentBuy.alertSignal);
+      console.log(searchedAlerts.itemsalert[0].mediaFormat);
+      console.log(searchedAlerts.itemsalert[0].locationAssociation.category);
+      console.log(searchedAlerts.itemsalert[0].sourceUrl);
+      console.log(key)
+      console.log("---------------------------------------------")
+    })
+    console.log("alertas!", alerts.alerts[0].alertsitems[0].itemsalert[0]);
 
     const [expanded, setExpanded] = useState();
     
