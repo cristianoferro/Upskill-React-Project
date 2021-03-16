@@ -5,11 +5,11 @@
             {
           "displayName": "Inventário",
           "languageCode": "pt"
-            },
+            }
         ], 
         "inventoryitems": [
           {              
-            "itemsinventory1": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -40,12 +40,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory2": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -76,12 +76,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory3": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -112,12 +112,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           }, 
           {              
-            "itemsinventory4": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -148,12 +148,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           }, 
           {              
-            "itemsinventory5": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -184,12 +184,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           }, 
           {              
-            "itemsinventory6": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento de Capital",
@@ -220,12 +220,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory7": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento Principal",
@@ -256,12 +256,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory8": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento Principal",
@@ -292,12 +292,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory9": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Equipamento Secundário",
@@ -328,12 +328,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory10": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -364,12 +364,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory11": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -400,12 +400,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory12": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -436,12 +436,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory13": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -472,12 +472,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory14": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -508,12 +508,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory15": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -544,12 +544,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory16": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -580,12 +580,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory17": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -616,12 +616,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory18": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -652,12 +652,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory19": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -688,12 +688,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory20": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -724,12 +724,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory21": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -760,12 +760,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory22": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -796,12 +796,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory23": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -832,12 +832,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory24": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
@@ -868,12 +868,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory25": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -904,12 +904,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory26": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -940,12 +940,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory27": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -976,12 +976,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory28": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1012,12 +1012,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory29": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1048,12 +1048,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },        
           {              
-            "itemsinventory30": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1084,12 +1084,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory31": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1120,12 +1120,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory32": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1156,12 +1156,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory33": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1192,12 +1192,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory34": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Condimento",
@@ -1228,12 +1228,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory35": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Lacticínios",
@@ -1264,12 +1264,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory36": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Lacticínios",
@@ -1300,12 +1300,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory37": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Lacticínios",
@@ -1336,12 +1336,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory38": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1372,13 +1372,13 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
 
           {              
-            "itemsinventory39": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1409,12 +1409,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory40": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1445,12 +1445,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory41": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1481,12 +1481,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory42": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1517,13 +1517,13 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
 
           {              
-            "itemsinventory43": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1554,12 +1554,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory44": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1590,12 +1590,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory45": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1626,12 +1626,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory46": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1662,12 +1662,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory47": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1698,12 +1698,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory48": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1734,12 +1734,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory49": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1770,12 +1770,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory50": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1806,12 +1806,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory51": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Fruta",
@@ -1842,12 +1842,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory52": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Hortaliça",
@@ -1878,12 +1878,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory53": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Hortaliça",
@@ -1914,12 +1914,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory54": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Hortaliça",
@@ -1950,12 +1950,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory55": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Hortaliça",
@@ -1986,12 +1986,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory56": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Grão",
@@ -2022,12 +2022,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory57": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Grão",
@@ -2058,12 +2058,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory58": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Grão",
@@ -2094,12 +2094,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory59": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Grão",
@@ -2130,12 +2130,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory60": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Peixe",
@@ -2166,12 +2166,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory61": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Peixe",
@@ -2202,12 +2202,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory62": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Peixe",
@@ -2238,12 +2238,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory63": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Peixe",
@@ -2274,12 +2274,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory64": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2310,12 +2310,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory65": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2346,12 +2346,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory66": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2382,12 +2382,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory67": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2418,12 +2418,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory68": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2454,12 +2454,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory69": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Carne",
@@ -2490,12 +2490,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory70": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2526,12 +2526,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory71": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2562,12 +2562,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory72": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2598,12 +2598,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory73": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2634,12 +2634,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory74": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2670,12 +2670,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory75": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2706,12 +2706,12 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           },
           {              
-            "itemsinventory76": [
+            "itemsinventory": [
               {
                 "labels": {
                   "displayName": "Bebidas",
@@ -2742,7 +2742,7 @@
                 "locationAssociation": {
                 "category": "CAPA"
                 },
-                "sourceUrl": "https:",
+                "sourceUrl": "https:"
               }
             ]
           }  
@@ -2750,4 +2750,3 @@
       }
     ]
   }
-}

@@ -5,11 +5,11 @@
             {
         "displayName": "Alertas",
         "languageCode": "pt"
-            },
+            }
         ], 
         "alertsitems": [
             {              
-                "itemsalert1": [  
+                "itemsalert": [  
                    {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -54,7 +54,7 @@
                 ]  
             },               
             {
-                  "itemsalert2": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -99,7 +99,7 @@
                 ]  
             },                 
             {
-                  "itemsalert3": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -144,7 +144,7 @@
                 ]  
             },                 
             {
-                  "itemsalert4": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -189,7 +189,7 @@
                 ]  
             },                 
             {
-                  "itemsalert5": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -234,7 +234,7 @@
                 ]  
             },                 
             {
-                  "itemsalert6": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento de Capital",
@@ -279,7 +279,7 @@
                 ]  
             },                 
             {
-                  "itemsalert7": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento Principal",
@@ -324,7 +324,7 @@
                 ]  
             },                 
             {
-                  "itemsalert8": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento Principal",
@@ -369,7 +369,7 @@
                 ]  
             },                 
             {
-                  "itemsalert9": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Equipamento Secundário",
@@ -414,7 +414,7 @@
                 ]  
             },                 
             {
-                  "itemsalert10": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -459,7 +459,7 @@
                 ]  
             },                 
             {
-                  "itemsalert11": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -504,7 +504,7 @@
                 ]  
             },                 
             {
-                  "itemsalert12": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -549,7 +549,7 @@
                 ]  
             },                 
             {
-                  "itemsalert13": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -594,7 +594,7 @@
                 ]  
             },                 
             {
-                  "itemsalert14": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -639,7 +639,7 @@
                 ]  
             },                 
             {
-                  "itemsalert15": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -684,7 +684,7 @@
                 ]  
             },                 
             {
-                  "itemsalert16": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -729,7 +729,7 @@
                 ]  
             },                 
             {
-                  "itemsalert17": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -774,7 +774,7 @@
                 ]  
             },                 
             {
-                  "itemsalert18": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -819,7 +819,7 @@
                 ]  
             },                 
             {
-                  "itemsalert19": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -864,7 +864,7 @@
                 ]  
             },                 
             {
-                  "itemsalert20": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -909,7 +909,7 @@
                 ]  
             },                 
             {
-                  "itemsalert21": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -954,7 +954,7 @@
                 ]  
             },                 
             {
-                  "itemsalert22": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -999,7 +999,7 @@
                 ]  
             },                 
             {
-                  "itemsalert23": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -1044,7 +1044,7 @@
                 ]  
             },                 
             {
-                  "itemsalert24": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Cutelaria/Utensílios",
@@ -1089,7 +1089,7 @@
                 ]  
             },                 
             {
-                  "itemsalert25": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1134,7 +1134,7 @@
                 ]  
             },                 
             {
-                  "itemsalert26": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1179,7 +1179,7 @@
                 ]  
             },                 
             {
-                  "itemsalert27": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1224,7 +1224,7 @@
                 ]  
             },                 
             {
-                  "itemsalert28": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1269,7 +1269,7 @@
                 ]  
             },                 
             {
-                  "itemsalert29": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1314,7 +1314,7 @@
                 ]  
             },                 
             {
-                  "itemsalert30": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1359,7 +1359,7 @@
                 ]  
             },                 
             {
-                  "itemsalert31": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1404,7 +1404,7 @@
                 ]  
             },                 
             {
-                  "itemsalert32": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1449,7 +1449,7 @@
                 ]  
             },                 
             {
-                  "itemsalert33": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1494,7 +1494,7 @@
                 ]  
             },                 
             {
-                  "itemsalert34": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Condimento",
@@ -1539,7 +1539,7 @@
                 ]  
             },                 
             {
-                  "itemsalert35": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Lacticínios",
@@ -1584,7 +1584,7 @@
                 ]  
             },                 
             {
-                  "itemsalert36": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Lacticínios",
@@ -1629,7 +1629,7 @@
                 ]  
             },                 
             {
-                  "itemsalert37": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Lacticínios",
@@ -1674,7 +1674,7 @@
                 ]  
             },                 
             {
-                  "itemsalert38": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1719,7 +1719,7 @@
                 ]  
             },                 
             {
-                  "itemsalert39": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1764,7 +1764,7 @@
                 ]  
             },                 
             {
-                  "itemsalert40": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1809,7 +1809,7 @@
                 ]  
             },                 
             {
-                  "itemsalert41": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1854,7 +1854,7 @@
                 ]  
             },                 
             {
-                  "itemsalert42": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1899,7 +1899,7 @@
                 ]  
             },                 
             {
-                  "itemsalert43": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1944,7 +1944,7 @@
                 ]  
             },                 
             {
-                  "itemsalert44": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -1989,7 +1989,7 @@
                 ]  
             },                 
             {
-                  "itemsalert45": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2034,7 +2034,7 @@
                 ]  
             },                 
             {
-                  "itemsalert46": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2079,7 +2079,7 @@
                 ]  
             },                 
             {
-                  "itemsalert47": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2124,7 +2124,7 @@
                 ]  
             },                 
             {
-                  "itemsalert48": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2169,7 +2169,7 @@
                 ]  
             },                 
             {
-                  "itemsalert49": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2214,7 +2214,7 @@
                 ]  
             },                 
             {
-                  "itemsalert50": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2259,7 +2259,7 @@
                 ]  
             },                 
             {
-                  "itemsalert51": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Fruta",
@@ -2304,7 +2304,7 @@
                 ]  
             },                 
             {
-                  "itemsalert52": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Hortaliça",
@@ -2349,7 +2349,7 @@
                 ]  
             },                 
             {
-                  "itemsalert53": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Hortaliça",
@@ -2394,7 +2394,7 @@
                 ]  
             },                 
             {
-                  "itemsalert54": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Hortaliça",
@@ -2439,7 +2439,7 @@
                 ]  
             },                 
             {
-                  "itemsalert55": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Hortaliça",
@@ -2484,7 +2484,7 @@
                 ]  
             },                 
             {
-                  "itemsalert56": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Grão",
@@ -2529,7 +2529,7 @@
                 ]  
             },                 
             {
-                  "itemsalert57": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Grão",
@@ -2574,7 +2574,7 @@
                 ]  
             },                 
             {
-                  "itemsalert58": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Grão",
@@ -2619,7 +2619,7 @@
                 ]  
             },                 
             {
-                  "itemsalert59": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Grão",
@@ -2664,7 +2664,7 @@
                 ]  
             },                 
             {
-                  "itemsalert60": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Peixe",
@@ -2709,7 +2709,7 @@
                 ]  
             },                 
             {
-                  "itemsalert61": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Peixe",
@@ -2754,7 +2754,7 @@
                 ]  
             },                 
             {
-                  "itemsalert62": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Peixe",
@@ -2799,7 +2799,7 @@
                 ]  
             }, 
             {
-                  "itemsalert63": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Peixe",
@@ -2844,7 +2844,7 @@
                 ]  
             }, 
             {
-                  "itemsalert64": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -2889,7 +2889,7 @@
                 ]  
             }, 
             {
-                  "itemsalert65": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -2934,7 +2934,7 @@
                 ]  
             }, 
             {
-                  "itemsalert66": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -2979,7 +2979,7 @@
                 ]  
             }, 
             {
-                  "itemsalert67": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -3024,7 +3024,7 @@
                 ]  
             }, 
             {
-                  "itemsalert68": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -3069,7 +3069,7 @@
                 ]  
             }, 
             {
-                  "itemsalert69": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Carne",
@@ -3114,7 +3114,7 @@
                 ]  
             }, 
             {
-                  "itemsalert70": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3159,7 +3159,7 @@
                 ]  
             }, 
             {
-                  "itemsalert71": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3204,7 +3204,7 @@
                 ]  
             }, 
             {
-                  "itemsalert72": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3249,7 +3249,7 @@
                 ]  
             }, 
             {
-                  "itemsalert73": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3294,7 +3294,7 @@
                 ]  
             }, 
             {
-                  "itemsalert74": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3339,7 +3339,7 @@
                 ]  
             },        
             {      
-                  "itemsalert75": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
@@ -3384,7 +3384,7 @@
                 ]  
             },                
             {
-                  "itemsalert76": [
+                  "itemsalert": [
                     {
                         "labels": {
                             "displayName": "Bebidas",
