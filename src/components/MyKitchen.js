@@ -170,6 +170,9 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
     );
 
     const [expanded, setExpanded] = useState();
+    
+    // media queries
+    const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
 
     return(
         
@@ -191,21 +194,21 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
                 </form> */}
 
                 <h2>Resultados Inventário</h2>
-                <List list={searchedInventario} expanded={expanded} setExpanded={setExpanded}/>
+                <List list={searchedInventario} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} />
                 <MyKitchenMenu/>
                 
         </motion.div> 
     )
 }
 
-const List = ({ list, expanded, setExpanded}) => (
+const List = ({ list, expanded, setExpanded, isPortrait}) => (
         <div className="list-results">
-            {list.map((item, id) => <Item key={item.itemID} id={id} item={item} expanded={expanded} setExpanded={setExpanded}  />)}
+            {list.map((item, id) => <Item key={item.itemID} id={id} item={item} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} />)}
         </div>
         
     )
 
-const Item = ({ k, id, item, expanded, setExpanded}) => {
+const Item = ({ k, id, item, expanded, setExpanded, isPortrait}) => {
     const [itemIsClosed, setItemIsClosed] = useState(true);
     const closeItem = () =>{
         setItemIsClosed(true)
@@ -216,7 +219,7 @@ const Item = ({ k, id, item, expanded, setExpanded}) => {
     }
     return(
         <>
-            <div className={(id + 1) % 4 === 0 ? "item-result no-margin-right" : "item-result"} 
+            <div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
                 onClick={() => clickItem(id)}>
                 <div>
                     <span>{item.Nome_do_Item}</span>
