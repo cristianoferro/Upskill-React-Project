@@ -10,18 +10,18 @@
           ],
           "recipessectionsFilter": [
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Entrada e Petiscos",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe1": {
+                          "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe1": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -53,7 +53,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe1": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -69,29 +69,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe1": 4,
-                              "preparationMethodsrecipe1": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FERVIDO"
                               ],
-                              "portionSizerecipe1": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe1": "FOTO",
-                              "locationAssociationrecipe1": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe1": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
-
-                          "labelsrecipe2": {
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+                        
+                          },{"labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe2": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -123,7 +123,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe2": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -139,29 +139,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe2": 4,
-                              "preparationMethodsrecipe2": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FRITO"
                               ],
-                              "portionSizerecipe2": {
+                              "portionSizerecipe": {
                                   "quantity": 8,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe2": "FOTO",
-                              "locationAssociationrecipe2": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe2": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe3": {
+                          },{"labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe3": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -193,7 +193,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe3": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -209,38 +209,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe3": 4,
-                              "preparationMethodrecipe3": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe3": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe3": "FOTO",
-                              "locationAssociationrecipe3": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe3": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
                       }
                   ]
               },
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Pratos Principais",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe6": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe6": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -272,7 +272,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe6": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -288,29 +288,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe6": 1,
-                              "preparationMethodsrecipeh6": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe6": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe6": "FOTO",
-                              "locationAssociationrecipe6": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe6": "https://unsplash.com/photos/LR559Dcst70",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          "labelsrecipe7": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipeh7": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -342,7 +342,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe7": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -358,29 +358,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe7": 1,
-                              "preparationMethodsrecipe7": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "ASSADA"
                               ],
-                              "portionSizerecipe7": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe7": "FOTO",
-                              "locationAssociationrecipe7": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe7": "https://unsplash.com/photos/tiS31mvMQGU",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          "labelsrecipe8": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe8": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -412,7 +412,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe8": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -428,29 +428,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe8": 1,
-                              "preparationMethodsrecipe8": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe8": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe8": "FOTO",
-                              "locationAssociationrecipe8": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe8": "https://unsplash.com/photos/12eHC6FxPyg",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/12eHC6FxPyg"
 
-                          "labelsrecipe9": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Carne de Porco com Espinafres e Batata Cozida",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe9": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -482,7 +482,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe9": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -498,29 +498,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe9": 1,
-                              "preparationMethodsrecipe9": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe9": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe9": "FOTO",
-                              "locationAssociationrecipe9": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe9": "https://www.pexels.com/photo/photo-of-cooked-food-3659862",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-cooked-food-3659862"
 
-                          "labelsrecipe10": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Linguado Grelhado com Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe10": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -552,7 +552,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe10": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -568,38 +568,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe10": 1,
-                              "preparationMethodsrecipe10": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe10": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe10": "FOTO",
-                              "locationAssociationrecipe10": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe10": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
                       }
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter3": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Menú de Almoço",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe11": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe11": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -631,7 +631,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe11": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -647,29 +647,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe11": 1,
-                              "preparationMethodsrecipeh11": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe11": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe11": "FOTO",
-                              "locationAssociationrecipe11": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe11": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          "labelsrecipe12": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe12": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -701,7 +701,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe12": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -717,29 +717,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe12": 1,
-                              "preparationMethodsrecipe12": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe12": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe12": "FOTO",
-                              "locationAssociationrecipe12": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe12": "https://unsplash.com/photos/_0JpjeqtSyg",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/_0JpjeqtSyg"
 
-                          "labelsrecipe13": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe13": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -771,7 +771,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe13": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -787,35 +787,35 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe13": 1,
-                              "preparationMethodsrecipe13": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe13": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe13": "FOTO",
-                              "locationAssociationrecipe13": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe13": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          "labelsrecipe14": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Tosta de Ovo e Abacate",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "attributesrecipe14": {
+                          "attributesrecipe": {
                               "price": {
                                   "currencyCode": "EUR",
                                   "units": 5
                               }  
                           },   
-                          "nutritionFactsrecipe14": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -847,7 +847,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe14": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -863,29 +863,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe14": 1,
-                              "preparationMethodsrecipe14": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe14": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe14": "FOTO",
-                              "locationAssociationrecipe14": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe14": "https://unsplash.com/photos/fdlZBWIP0aM",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/fdlZBWIP0aM"
 
-                          "labelsrecipe15": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe15": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -917,7 +917,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe15": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -933,29 +933,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe15": 1,
-                              "preparationMethodsrecipe15": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe15": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe15": "FOTO",
-                              "locationAssociationrecipe15": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe15": "https://unsplash.com/photos/OFismyezPnY",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          "labelsrecipe16": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Quiche de Ovos e Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe16": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -987,7 +987,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe16": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1003,29 +1003,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe16": 1,
-                              "preparationMethodsrecipe16": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe16": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe16": "FOTO",
-                              "locationAssociationrecipe16": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrl16": "https://unsplash.com/photos/Jw4rKiZFiSM",
+                              "sourceUrl": "https://unsplash.com/photos/Jw4rKiZFiSM"
 
-                          "labelsrecipe17": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Bife de Bovino com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe17": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1057,7 +1057,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe17": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1073,38 +1073,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe17": 1,
-                              "preparationMethodsrecipe17": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe17": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe17": "FOTO",
-                              "locationAssociationrecipe17": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe17": "https://www.pexels.com/photo/shallow-focus-photography-of-meat-dish-and-leaves-1251208"
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/shallow-focus-photography-of-meat-dish-and-leaves-1251208"
                       }
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter4": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Menú de Jantar",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe18": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Entrecosto de Porco Grelhado",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe18": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1136,7 +1136,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe18": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1152,29 +1152,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe18": 1,
-                              "preparationMethodsrecipe18": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe18": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe18": "FOTO",
-                              "locationAssociationrecipe18": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe18": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654"
 
-                          "labelsrecipe19": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Salmão com Courgettes e Melancia",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe19": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1206,7 +1206,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe19": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1222,29 +1222,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe19": 1,
-                              "preparationMethodsrecipe19": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "ASSADO"
                               ],
-                              "portionSizerecipe19": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe19": "FOTO",
-                              "locationAssociationrecipe19": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe19": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe20": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Espetadas de Carne de Perú e Camarão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe20": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1276,7 +1276,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe20": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1292,29 +1292,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe20": 1,
-                              "preparationMethodsrecipe20": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe20": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe20": "FOTO",
-                              "locationAssociationrecipe20": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe20": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe21": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Frango Grelhado com Salada e Batatas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe21": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1346,7 +1346,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe21": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1362,29 +1362,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe21": 1,
-                              "preparationMethodsrecipe21": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe21": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe21": "FOTO",
-                              "locationAssociationrecipe21": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe21": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe22": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Costeletão de Porco",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe22": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1416,7 +1416,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe22": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1432,29 +1432,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe22": 1,
-                              "preparationMethodsrecipe22": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe22": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe22": "FOTO",
-                              "locationAssociationrecipe22": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrldish22": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrldish": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe23": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Dourada do Mar Grelhada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe23": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1486,7 +1486,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe23": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1502,38 +1502,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe23": 1,
-                              "preparationMethodsrecipe23": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe23": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe23": "FOTO",
-                              "locationAssociationrecipe23": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe23": "https://images.unsplash.com/photo-1600175074394-f2f4c500f7ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fGdyaWxsZWQlMjBicmVhbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1600175074394-f2f4c500f7ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fGdyaWxsZWQlMjBicmVhbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
                       }
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter5": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Bolos-Doces e Sobremesas",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe24": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Bolo de Chocolate e Baunilha",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe24": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1565,7 +1565,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe24": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1581,30 +1581,30 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe24": 1,
-                              "preparationMethodsrecipe24": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe24": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe24": "FOTO",
-                              "locationAssociationrecipe24": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe24": "https://www.pexels.com/photo/slice-cake-1854652/",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/slice-cake-1854652/"
 
-                          "labelsrecipe25": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Panquecas com Banana e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "dietaryRestrictionrecipe25": "NORMAL",
-                          "nutritionFactsrecipe25": {
+                          "dietaryRestrictionrecipe": "NORMAL",
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1636,7 +1636,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe25": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1652,29 +1652,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe25": 1,
-                              "preparationMethodsrecipe25": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe25": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe25": "FOTO",
-                              "locationAssociationrecipe25": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe25": "https://unsplash.com/photos/zcUgjyqEwe8",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/zcUgjyqEwe8"
 
-                          "labelsrecipe26": {
+                          },{"labelsrecipe": {
                               "displayName": "Bolo de Amora",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe26": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1706,7 +1706,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe26": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1722,29 +1722,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe26": 1,
-                              "preparationMethodsrecipe26": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe26": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe26": "FOTO",
-                              "locationAssociationrecipe26": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe26": "https://unsplash.com/photos/Mzy-OjtCI70",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/Mzy-OjtCI70"
 
-                          "labelsrecipe27": {                                
+                          },{"labelsrecipe": {                                
                               "displayName": "Crepes com Gelado de Manga e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe27": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1776,7 +1776,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe27": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1792,38 +1792,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe27": 1,
-                              "preparationMethodsrecipe27": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe27": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe27": "FOTO",
-                              "locationAssociationrecipe27": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe27": "https://www.pexels.com/photo/crepes-on-plate-3807397/"
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/crepes-on-plate-3807397/"
                       }
                   ]        
               },
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Carnes",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe2": {
+                          "labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe2": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1855,7 +1855,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe2": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1871,29 +1871,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe2": 4,
-                              "preparationMethodsrecipe2": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FRITO"
                               ],
-                              "portionSizerecipe2": {
+                              "portionSizerecipe": {
                                   "quantity": 8,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe2": "FOTO",
-                              "locationAssociationrecipe2": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe2": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe9": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Carne de Porco com Espinafres e Batata Cozida",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe9": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1925,7 +1925,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe9": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -1941,29 +1941,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe9": 1,
-                              "preparationMethodsrecipe9": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe9": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe9": "FOTO",
-                              "locationAssociationrecipe9": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe9": "https://www.pexels.com/photo/photo-of-cooked-food-3659862",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-cooked-food-3659862"
 
-                          "labelsrecipe13": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe13": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -1995,7 +1995,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe13": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2011,29 +2011,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe13": 1,
-                              "preparationMethodsrecipe13": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe13": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe13": "FOTO",
-                              "locationAssociationrecipe13": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe13": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          "labelsrecipe15": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe15": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2065,7 +2065,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe15": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2081,29 +2081,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe15": 1,
-                              "preparationMethodsrecipe15": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe15": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe15": "FOTO",
-                              "locationAssociationrecipe15": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe15": "https://unsplash.com/photos/OFismyezPnY",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          "labelsrecipe17": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Bife de Bovino com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe17": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2135,7 +2135,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe17": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2151,29 +2151,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe17": 1,
-                              "preparationMethodsrecipe17": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe17": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe17": "FOTO",
-                              "locationAssociationrecipe17": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe17": "https://www.pexels.com/photo/shallow-focus-photography-of-meat-dish-and-leaves-1251208",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/shallow-focus-photography-of-meat-dish-and-leaves-1251208"
 
-                          "labelsrecipe18": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Entrecosto de Porco Grelhado",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe18": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2205,7 +2205,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe18": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2221,29 +2221,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe18": 1,
-                              "preparationMethodsrecipe18": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe18": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe18": "FOTO",
-                              "locationAssociationrecipe18": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe18": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654"
 
-                          "labelsrecipe20": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Espetadas de Carne de Perú e Camarão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe20": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2275,7 +2275,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe20": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2291,29 +2291,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe20": 1,
-                              "preparationMethodsrecipe20": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe20": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe20": "FOTO",
-                              "locationAssociationrecipe20": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe20": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",  
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"  
 
-                          "labelsrecipe21": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Frango Grelhado com Salada e Batatas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe21": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2345,7 +2345,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe21": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2361,29 +2361,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe21": 1,
-                              "preparationMethodsrecipe21": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe21": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe21": "FOTO",
-                              "locationAssociationrecipe21": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe21": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe22": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Costeletão de Porco",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe22": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2415,7 +2415,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe22": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2431,38 +2431,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe22": 1,
-                              "preparationMethodsrecipe22": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe22": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe22": "FOTO",
-                              "locationAssociationrecipe22": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrldish22": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
                       }
                   ]        
               },
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Peixes",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe3": {
+                          "labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe3": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2494,7 +2494,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe3": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2510,29 +2510,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe3": 4,
-                              "preparationMethodrecipe3": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe3": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe3": "FOTO",
-                              "locationAssociationrecipe3": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe3": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe10": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Linguado Grelhado com Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe10": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2564,7 +2564,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe10": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2580,29 +2580,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe10": 1,
-                              "preparationMethodsrecipe10": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe10": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe10": "FOTO",
-                              "locationAssociationrecipe10": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe10": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe19": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Salmão com Courgettes e Melancia",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe19": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2634,7 +2634,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe19": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2650,29 +2650,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe19": 1,
-                              "preparationMethodsrecipe19": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "ASSADO"
                               ],
-                              "portionSizerecipe19": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe19": "FOTO",
-                              "locationAssociationrecipe19": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe19": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                              "sourceUrlrecipe": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          "labelsrecipe23": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Dourada do Mar Grelhada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe23": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2704,7 +2704,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe23": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2720,38 +2720,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe23": 1,
-                              "preparationMethodsrecipe23": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe23": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe23": "FOTO",
-                              "locationAssociationrecipe23": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe23": "https://images.unsplash.com/photo-1600175074394-f2f4c500f7ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fGdyaWxsZWQlMjBicmVhbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1600175074394-f2f4c500f7ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fGdyaWxsZWQlMjBicmVhbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
                       }
                   ]        
               },
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Vegetarianos",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe1": {
+                          "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe1": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2783,7 +2783,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe1": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2799,29 +2799,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe1": 4,
-                              "preparationMethodsrecipe1": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FERVIDO"
                               ],
-                              "portionSizerecipe1": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe1": "FOTO",
-                              "locationAssociationrecipe1": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe1": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe6": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe6": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2853,7 +2853,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe6": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2869,29 +2869,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe6": 1,
-                              "preparationMethodsrecipeh6": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe6": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe6": "FOTO",
-                              "locationAssociationrecipe6": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe6": "https://unsplash.com/photos/LR559Dcst70",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          "labelsrecipe7": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipeh7": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2923,7 +2923,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe7": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -2939,29 +2939,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe7": 1,
-                              "preparationMethodsrecipe7": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "ASSADA"
                               ],
-                              "portionSizerecipe7": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe7": "FOTO",
-                              "locationAssociationrecipe7": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe7": "https://unsplash.com/photos/tiS31mvMQGU",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          "labelsrecipe8": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe8": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -2993,7 +2993,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe8": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3009,38 +3009,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe8": 1,
-                              "preparationMethodsrecipe8": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe8": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe8": "FOTO",
-                              "locationAssociationrecipe8": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe8": "https://unsplash.com/photos/12eHC6FxPyg"
+                              "sourceUrlrecipe": "https://unsplash.com/photos/12eHC6FxPyg"
                       }
                   ]        
               },
               {
-                  "labelrecipessectionsFilter": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Económicos",
                       "languageCode": "pt"
                   },
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe1": {
+                          "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe1": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3072,7 +3072,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe1": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3088,29 +3088,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe1": 4,
-                              "preparationMethodsrecipe1": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FERVIDO"
                               ],
-                              "portionSizerecipe1": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe1": "FOTO",
-                              "locationAssociationrecipe1": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe1": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe2": {
+                          },{"labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe2": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3142,7 +3142,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe2": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3158,29 +3158,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe2": 4,
-                              "preparationMethodsrecipe2": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "FRITO"
                               ],
-                              "portionSizerecipe2": {
+                              "portionSizerecipe": {
                                   "quantity": 8,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe2": "FOTO",
-                              "locationAssociationrecipe2": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe2": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe3": {
+                          },{"labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe3": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3212,7 +3212,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe3": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3228,29 +3228,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe3": 4,
-                              "preparationMethodrecipe3": [
+                              "servesNumPeoplerecipe": 4,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe3": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe3": "FOTO",
-                              "locationAssociationrecipe3": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe3": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60",
+                              "sourceUrlrecipe": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          "labelsrecipe11": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe11": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3282,7 +3282,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe11": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3298,29 +3298,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe11": 1,
-                              "preparationMethodsrecipeh11": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe11": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe11": "FOTO",
-                              "locationAssociationrecipe11": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe11": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          "labelsrecipe12": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe12": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3352,7 +3352,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe12": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3368,29 +3368,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe12": 1,
-                              "preparationMethodsrecipe12": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe12": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe12": "FOTO",
-                              "locationAssociationrecipe12": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe12": "https://unsplash.com/photos/_0JpjeqtSyg",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/_0JpjeqtSyg"
 
-                          "labelsrecipe13": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe13": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3422,7 +3422,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe13": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3438,35 +3438,35 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe13": 1,
-                              "preparationMethodsrecipe13": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "GRELHADO"
                               ],
-                              "portionSizerecipe13": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe13": "FOTO",
-                              "locationAssociationrecipe13": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe13": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          "labelsrecipe14": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Tosta de Ovo e Abacate",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "attributesrecipe14": {
+                          "attributesrecipe": {
                               "price": {
                                   "currencyCode": "EUR",
                                   "units": 5
                               }  
                           },   
-                          "nutritionFactsrecipe14": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3498,7 +3498,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe14": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3514,29 +3514,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe14": 1,
-                              "preparationMethodsrecipe14": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe14": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe14": "FOTO",
-                              "locationAssociationrecipe14": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe14": "https://unsplash.com/photos/fdlZBWIP0aM",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/fdlZBWIP0aM"
 
-                          "labelsrecipe15": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe15": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3568,7 +3568,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe15": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3584,30 +3584,30 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe15": 1,
-                              "preparationMethodsrecipe15": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe15": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe15": "FOTO",
-                              "locationAssociationrecipe15": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe15": "https://unsplash.com/photos/OFismyezPnY",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          "labelsrecipe25": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Panquecas com Banana e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "dietaryRestrictionrecipe25": "NORMAL",
-                          "nutritionFactsrecipe25": {
+                          "dietaryRestrictionrecipe": "NORMAL",
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3639,7 +3639,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe25": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3655,29 +3655,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe25": 1,
-                              "preparationMethodsrecipe25": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe25": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe25": "FOTO",
-                              "locationAssociationrecipe25": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe25": "https://unsplash.com/photos/zcUgjyqEwe8",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/zcUgjyqEwe8"
 
-                          "labelsrecipe27": {                                
+                          },{"labelsrecipe": {                                
                               "displayName": "Crepes com Gelado de Manga e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe27": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3709,7 +3709,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe27": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3725,38 +3725,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe27": 1,
-                              "preparationMethodsrecipe27": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe27": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe27": "FOTO",
-                              "locationAssociationrecipe27": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe27": "https://www.pexels.com/photo/crepes-on-plate-3807397/"
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/crepes-on-plate-3807397/"
                       }
                   ]        
               },                                
               {
-                  "labelrecipessectionsFilter0": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Pizzas",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter0": [
+                  "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe11": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe11": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3788,7 +3788,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe11": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3804,29 +3804,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe11": 1,
-                              "preparationMethodsrecipeh11": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe11": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe11": "FOTO",
-                              "locationAssociationrecipe11": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe11": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755",
+                              "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          "labelsrecipe12": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe12": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3858,7 +3858,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe12": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3874,38 +3874,38 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe12": 1,
-                              "preparationMethodsrecipe12": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe12": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe12": "FOTO",
-                              "locationAssociationrecipe12": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe12": "https://unsplash.com/photos/_0JpjeqtSyg"
+                              "sourceUrlrecipe": "https://unsplash.com/photos/_0JpjeqtSyg"
                       }
                   ]        
               },
               {
-                  "labelrecipessectionsFilter1": {
+                  "labelsrecipessectionsFilter": {
                       "displayName": "Pastas",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter1": [
+                  "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe6": {                                                                                                             
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe6": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -3937,7 +3937,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe6": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -3953,29 +3953,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe6": 1,
-                              "preparationMethodsrecipeh6": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe6": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe6": "FOTO",
-                              "locationAssociationrecipe6": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe6": "https://unsplash.com/photos/LR559Dcst70",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          "labelsrecipe7": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipeh7": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -4007,7 +4007,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe7": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -4023,29 +4023,29 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe7": 1,
-                              "preparationMethodsrecipe7": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "ASSADA"
                               ],
-                              "portionSizerecipe7": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe7": "FOTO",
-                              "locationAssociationrecipe7": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe7": "https://unsplash.com/photos/tiS31mvMQGU",
+                              "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          "labelsrecipe8": {                                                                                                             
+                          },{"labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
                           },
-                          "nutritionFactsrecipe8": {
+                          "nutritionFactsrecipe": {
                                   "calories": {
                                       "lowerAmount": 400,
                                       "upperAmount": 500,
@@ -4077,7 +4077,7 @@
                                       "unit":"MILIGRAMA"
                                   }
                               },
-                              "ingredientsrecipe8": [
+                              "ingredientsrecipe": [
                                   {
                                       "labels": [
                                           {
@@ -4093,22 +4093,22 @@
                                       ]
                                   }
                               ],
-                              "servesNumPeoplerecipe8": 1,
-                              "preparationMethodsrecipe8": [
+                              "servesNumPeoplerecipe": 1,
+                              "preparationMethodsrecipe": [
                                   "COZIDO"
                               ],
-                              "portionSizerecipe8": {
+                              "portionSizerecipe": {
                                   "quantity": 1,
                                   "unit": {
                                       "displayName": "Porções",
                                       "languageCode": "pt"
                                   }
                               },
-                              "mediaFormatrecipe8": "FOTO",
-                              "locationAssociationrecipe8": {
+                              "mediaFormatrecipe": "FOTO",
+                              "locationAssociationrecipe": {
                               "category": "CAPA"
                               },
-                              "sourceUrlrecipe8": "https://unsplash.com/photos/12eHC6FxPyg"
+                              "sourceUrlrecipe": "https://unsplash.com/photos/12eHC6FxPyg"
                       }
                   ]        
               }
