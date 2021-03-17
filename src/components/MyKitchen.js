@@ -2,7 +2,6 @@ import MyKitchenMenu from './MyKitchenMenu';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from "react";
 import { useMediaQuery } from 'react-responsive';
-
 import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
 import inventory from '../data/inventory.json';
@@ -21,9 +20,7 @@ const useStorageRetriever = (key, initialState) => {
     return [value, setValue];
   
    };
-
-const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, globalVariants, children}) => {
-    
+const MyKitchen = ({buttonVariants, globalVariants, children}) => {
     
     // console.log(alerts.alerts[0].alertsitems[0])
     // inventory.inventory[0].inventoryitems.map((inventoryItem, keyID) => {
