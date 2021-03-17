@@ -1,16 +1,14 @@
 import MyKitchenMenu from './MyKitchenMenu';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from "react";
-import { useMediaQuery } from 'react-responsive'
+import { useMediaQuery } from 'react-responsive';
 
 import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
-import defaultItemImg from '../media/images/0.jpg';
-import Close from './visual_components/Close';
 import inventory from '../data/inventory.json';
 import alerts from '../data/alerts.json';
 import recipes from '../data/Recipes.json';
-
+import List from './sub_components/List';
 const useStorageRetriever = (key, initialState) => {
     const [value, setValue] = useState(
       localStorage.getItem(key) || initialState
@@ -214,51 +212,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
     )
 }
 
-const List = ({ results, list, expanded, setExpanded, isPortrait}) => (
-        <div className="list-results">
-            <h2 className="results-name">{results}</h2>
-            <div className="main-filters">
-                <span>Filtrar por:</span>
-                <span className="filter-button">Tipo</span>
-                <span className="filter-button">Quantidade</span>
-                <span className="filter-button">Custo</span>
-            </div>
-            {list.map((item, id) => <Item key={item.itemID} id={id} item={item} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} />)}
-        </div>
-        
-    )
 
-const Item = ({ k, id, item, expanded, setExpanded, isPortrait}) => {
-    const [itemIsClosed, setItemIsClosed] = useState(true);
-    const closeItem = () =>{
-        setItemIsClosed(true)
-    }
-    const clickItem = (id) => {
-        setExpanded(id)
-        setItemIsClosed(false)
-    }
-    return(
-        <>
-            <div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
-                onClick={() => clickItem(id)}>
-                <div>
-                    <span>{item.Nome_do_Item}</span>
-                    <span>{item.Nome_do_Item}</span>
-                </div>
 
-            <div className="item-img"><img src={item.image ? item.image : defaultItemImg} alt=""/></div>
-            </div>
-            <div className={id === expanded && !itemIsClosed ? "item-detail" : "item-detail-hidden"}>
-                <Close closeItem={closeItem} />
-                <span>{item.Nome_do_Item}</span>
-                <span>{item.Tipo_de_Item}</span>
-                <span>{item.Quantidade_Necessária}</span>
-                <span>{item.Custo_Unitário}</span>
-                <span>{item.Moeda_do_Preço}</span>
-                <span>{item.Custo_Total}</span>
-                <div className="item-img-detail"><img src={item.image ? item.image : defaultItemImg} alt=""/></div>
-            </div>
-        </>
-  );
-}
+
 export default MyKitchen;
