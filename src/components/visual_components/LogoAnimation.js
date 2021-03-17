@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
   const pathVariants = {
@@ -17,6 +16,7 @@ import { motion } from 'framer-motion';
     },
     exit:{
       pathLength:0,
+      opacity:0
     }
   }
 
@@ -25,13 +25,10 @@ const Login = () => {
 
     return(
         
-          <motion.svg className="svg-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"
+          <motion.svg className="svg-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 843 335"
             variants={pathVariants}
             initial="hidden"
             animate="visible"
-            drag
-            dragConstraints={{left:0, top:0, right:0, bottom:0}}
-            dragElastic={0.1}
             exit="exit"
             
           >

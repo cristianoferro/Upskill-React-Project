@@ -5,7 +5,26 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: rgb(195, 238, 255);
+  background: #ffffff;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bkg-container {
+  top: 0;
+  position: absolute;
+  z-index: -100;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.bkg-gradient {
+  // background: rgb(195, 238, 255);
   background: radial-gradient(
     circle,
     //aditional for testing purposes
@@ -14,12 +33,9 @@ body {
     rgb(255, 255, 255) 30%,
     rgb(195, 238, 255) 100%
   );
-  overflow-x: hidden;
-  font-family: "Poppins", sans-serif;
 }
-
-a {
-  text-decoration: none;
+.bkg-flat {
+  background: rgb(255, 255, 255);
 }
 
 input[type="text"],
@@ -34,12 +50,110 @@ select {
   width: 100%;
 }
 
+// scrollbar
+::-webkit-scrollbar {
+  position: absolute;
+  width: 0.5vw;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0.5rem;
+  background-color: #dddddd77;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0.5rem;
+  background-color: #e6fdff;
+}
+
+//Containers
 .box-element {
-  background-color: #f4feff;
-  border: 1px solid #ebebeb;
-  box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
-  border-radius: 2rem;
+  background-color: #e6fdff;
+  box-shadow: #d3d3d38a 0 0 1rem 0, #d3d3d38a 0 0 1rem 0;
+  border-radius: 3vw;
+}
+
+.interface-container {
+  margin: 3.125vh 3.125vw; //1.5625
+  width: 93.75vw;
+  height: 93.75vh;
+  position: relative;
+  background-color: #eeeeee;
+  overflow: hidden;
+}
+
+.expand-main-container {
+  position: absolute;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.expand-anim-container {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  transform: scale(0);
+}
+.circle-cover-transition {
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: white;
+  width: 0;
+  height: 0;
+  box-shadow: #ffffff 0 0 1rem 2rem;
+}
+
+.upper-bar {
+  height: 12.5vh;
+  border-bottom-left-radius: 0%;
+  border-bottom-right-radius: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 2rem 2rem;
+}
+
+.home-link {
+  width: 5vh;
+  left: 3vw;
+  position: absolute;
+  img {
+    width: 100%;
+  }
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .title {
+    font-size: 10vw;
+  }
+  .login-form {
+    width: 60vw;
+  }
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
 }
 
 @import "./initial";
 @import "./login";
+@import "./Inventário.scss";
+@import "./Item.module.css";
+// @import "./Menu.scss";
+@import "./MyKitchen.scss";
+@import "./Schedule.scss";
+@import "./Search.scss";
+@import "./Statistics.scss";
+@import "./SearchContainer";

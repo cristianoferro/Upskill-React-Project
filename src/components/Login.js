@@ -1,12 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-
+import Background from './visual_components/Background';
 
 const containerVariants = {
     hidden:{
       opacity:0,
-      x: '2vw'
+      x: '2vw',
     },
     visible:{
       opacity:1,
@@ -25,13 +25,20 @@ const containerVariants = {
 const Login = () => {
 
     return(
-        <motion.div className="login-page"
-            variants={containerVariants}
-            initial="hidden"
-            animate="visible"
-            exit="exit">
-            <h2 className="title">Log in to Kitchenware</h2>
-            <form method="post" className="login-form box-element">
+        <div className="login-page"
+            >
+            <motion.h2 className="title"
+              variants={containerVariants}
+              initial="hidden"
+              animate="visible"
+              exit="exit"
+            >Log in to Kitchenware</motion.h2>
+            <motion.form method="post" className="login-form box-element"
+              variants={containerVariants}
+              initial="hidden"
+              animate="visible"
+              exit="exit"
+            >
             <div className="log-input">
               <input type="email" id="email" placeholder="EMAIL"/>
             </div>
@@ -52,8 +59,11 @@ const Login = () => {
                   </Link>
               </div>
                 
-            </form>
-        </motion.div>
+            </motion.form>
+            <div className="initial-background"></div>
+            <Background/>
+        </div>
+        
     )
 }
 

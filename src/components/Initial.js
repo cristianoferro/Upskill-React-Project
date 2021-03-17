@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import LogoAnimation from './LogoAnimation'
+import Background from './visual_components/Background';
+import LogoAnimation from './visual_components/LogoAnimation';
+import ExpandTransition from './visual_components/ExpandTransition';
+
 const initialVariants = {
   hidden: {
     opacity:0,
@@ -16,7 +19,6 @@ const initialVariants = {
     }
   },
   exit:{
-    opacity:0,
     transition: { 
       duration:1,
       ease: 'easeInOut' }
@@ -24,28 +26,38 @@ const initialVariants = {
 }
 
 const Initial = () => {
-  
-    return(
-      <motion.div className="initial"
-      variants={initialVariants}
-      initial="hidden"
-      animate="visible"
-      exit="exit">
-        
-        <LogoAnimation/>
+    let initialMenuLinks = ['MyKitchen', 'Alertas'];
 
-            <div className="float-menu-container">
-              <nav className="initial-menu box-element">
-                <div className="nonsvg-v-line"></div>
-                <div className="nonsvg-h-line"></div>
-                <Link to="/initial" className="menu-elem"><div>MyKitchen</div></Link>
-                <Link to="/initial" className="menu-elem"><div>Search</div></Link>
-                <Link to="/initial" className="menu-elem"><div>Schedule</div></Link>
-                <Link to="/initial" className="menu-elem"><div>Statistics</div></Link>
-              </nav>
-            </div>
+    return(
+        <>
+          <motion.div className="initial"
+            variants={initialVariants}
+            initial="hidden"
+            animate="visible"
+            exit="exit">
+              <div className="initial-wrapper">
+                <LogoAnimation/>
+              
+                <nav className="initial-menu box-element">
+                  <div className="nonsvg-v-line"></div>
+                  {initialMenuLinks.map((menuElem,index) => (
+                    <Link to={"/",menuElem}
+                      className="menu-elem"
+                      key={index}
+                      >
+                        <div>{menuElem}</div>
+                    </Link>
+                  ))}
+                </nav>
+              </div>
+              
+                <ExpandTransition/>
                 
-      </motion.div>
+                
+                
+          </motion.div>
+          <Background/>
+        </>
     )
 }
 
