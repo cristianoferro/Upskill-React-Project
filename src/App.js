@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch, useLocation } from "react-router-dom";
 import Login from './components/Login';
 import Initial from './components/Initial';
-import InterfaceContainer from './components/InterfaceContainer';
+import InterfaceContainer from './components/visual_components/InterfaceContainer';
 import { AnimatePresence } from 'framer-motion';
 import "./styles/App.scss";
 import MyKitchen from './components/MyKitchen';
@@ -26,6 +26,20 @@ function App() {
     },
     exit:{
       opacity:0,
+      transition: { 
+        duration:0.5,
+        ease: 'easeInOut' }
+      },
+  }
+  const buttonVariants = {
+    hover:{
+      scale:[1,1.3,1],
+      transition: { 
+        duration:0.5,
+        ease: 'easeInOut' }
+      },
+    hoverSmaller:{
+      scale:[1,1.1,1],
       transition: { 
         duration:0.5,
         ease: 'easeInOut' }
@@ -68,11 +82,9 @@ function App() {
             </Route>
             <InterfaceContainer globalVariants={globalVariants}>
               <Route path="/mykitchen">
-                <MyKitchen globalVariants={globalVariants}/>
+                <MyKitchen buttonVariants={buttonVariants} globalVariants={globalVariants}/>
               </Route>
-              <Route path="/inventario">
                 <Inventario/>
-              </Route>
             </InterfaceContainer>
           </Switch>
         </AnimatePresence>

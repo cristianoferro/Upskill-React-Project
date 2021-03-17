@@ -29,9 +29,6 @@ const Login = () => {
             variants={pathVariants}
             initial="hidden"
             animate="visible"
-            drag
-            dragConstraints={{left:0, top:0, right:0, bottom:0}}
-            dragElastic={0.1}
             exit="exit"
             
           >
