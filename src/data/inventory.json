@@ -1,0 +1,2752 @@
+{
+    "inventory": [
+      {
+        "labelsinitialinventory": [
+            {
+          "displayName": "Inventário",
+          "languageCode": "pt"
+            }
+        ], 
+        "inventoryitems": [
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Forno",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  4 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1999.28 
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  7997.12 
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/ktVKZRYUP4Y"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Máquina de Gelo",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  1 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  165.66  
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  165.66  
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/coquetel-aperitivo-drink-frio-4686941"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Máquina de Café",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  1 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1100   
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1100   
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/anonimo-utensilio-eletrodomestico-dispositivo-4349796"
+              }
+            ]
+          }, 
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Frigorífico",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  3 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  531.33    
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  531.33   
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/VVP3puLVvB4"
+              }
+            ]
+          }, 
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cadeiras",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  47.28     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2836.8   
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/yzqR-1tZVKI"
+              }
+            ]
+          }, 
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento de Capital",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Mesa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  15 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  89.7      
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1345.5   
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/DCmUhk54F6M"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento Principal",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cafeteira",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  3 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  182.01      
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  546.03    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1581701663554-291c6c9e56d2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlJTIwbWFrZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento Principal",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Microondas",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  3 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  191.53       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  574.59    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/NHuOh6F0JSs"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Equipamento Secundário",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Chaleira",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  2 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  16.57        
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  33.14    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/lgsotyuf0KU"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Faca de Manteiga",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  4 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8.14        
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  32.56    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/-qxTQbjjQZI"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cracker de Nozes",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  5 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  10        
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  50    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/TfAI9jBxxGc"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Colher de Chá",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  70 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.5       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  105    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/H_CCn6AS1Ns"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Garfo de Mesa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  180    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/qFn515nfhDs"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Garfo para Salada",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  150    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/pessoa-comendo-tomate-de-salada-4989069/"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Colher de Mesa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  180    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/au475mEaJiw"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Colher de Sobremesa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  60    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/PnIHvHZsH4Q"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Faca de Mesa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  120    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/pao-de-aco-inoxidavel-com-fatias-de-pao-na-tabua-de-cortar-2067430"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Faca de Fruta",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  480    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/panqueca-no-prato-2113556"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Tenaz",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  8 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  4.99       
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  39.92   
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/AsEmrFvAL7M"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Descascador de Legumes",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  4 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3.49      
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  13.96    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/agricultura-comida-alimento-refeicao-4110460"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Ralador",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  3 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  11.97     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  35.91     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/vGTb-3UnI5c"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Faca do Chef",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  2 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  35     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  70     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/PBt7ok7ygt0"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Frigideira",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  8 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  29.99     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  239.92     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/FUsq49lD1xY"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Cutelaria/Utensílios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Espátula",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  4 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  32     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/w-ckffSqeWU"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Óleo de Girassol",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  4     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  240     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/cozinheiro-sem-rosto-colocando-oleo-na-panela-4910236"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Ketchup",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  7     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  420     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/condimento-tempero-especiaria-delicioso-4676397"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Mostarda",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  6.99     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  209.7     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/4-de-julho-dia-da-independencia-condimentos-temperos-4676414"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Açúcar",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  50 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  6.89     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  344.5     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/Q5xjxSfs1Lk"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Pimenta",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  8 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  24     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/pimentas-brancas-e-pretas-39069"
+              }
+            ]
+          },        
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Sal",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  10 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  4     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  40     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/garrafa-frasco-jarra-cozinhar-6401"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Vinagre",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  7.99     
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  239.7     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/vinagre-de-cidra-de-maca-3718457"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Chocolate",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  20 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3.99    
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  79.8     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/tppi1oZAdZI"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Baunilha",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  25 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  7.99    
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  199.75     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/GA6WtJ7DtSo"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Condimento",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Hortelã",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  15 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  0.99   
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  14.85      
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/dJ4JgX5I5y8"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Lacticínios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Iogurte",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  40 
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  4   
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  160      
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/k2m_KNqF-Ac"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Lacticínios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Queijo",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5   
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  300      
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/XyygbL6Acso"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Lacticínios",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Leite",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  80
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  9.99  
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  799.2       
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/dxb_HSjoQ40"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Banana",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  10
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2  
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  20       
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/VI2rIoZUrks"
+              }
+            ]
+          },
+
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Maçã",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  40
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.5  
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  60       
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/oJGca8Ch828"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cereja",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  200
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  0.17  
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  34       
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/Oqrx1ZxBYtc"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Kiwi",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.7 
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  51        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/HkshRttZKCM"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Laranja",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   65
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  65        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/nibgG33H0F8"
+              }
+            ]
+          },
+
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Pera",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   60
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  120        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/8ZhCP793B-o"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Frutos Silvestres",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  20
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  109.8        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/_CLuJ5_Tz-w"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Amora",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  40
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  99.6        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/Zk_HCs3evsc"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Manga",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  40
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.5
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  60        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/2BeAHd_Kmf8"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Melancia",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  15
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.25
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8.75        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/HuMXepbutF8"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Tomate",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  60
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.99
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  119.4        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/UEyDtC48Dr0"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Azeitona",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  50
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  74.5        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/pao-close-vista-de-perto-delicioso-4109910"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Abacate",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.66
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  49.8        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/EMX1eJ1BcgU"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Fruta",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Morangos",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  25
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  62.25        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/IXOjM_g-XBQ"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Hortaliça",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Salada",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  80
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.69
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  135.2        
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/bBzjWthTqb8"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Hortaliça",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Brócolos",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.39
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  41.7    
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/UrqPUe3zUzw"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Hortaliça",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Espinafres",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  30     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/4jpNPu7IW8k"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Hortaliça",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Batata",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   45
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.37
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  106.65     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/B0s3Xndk6tw"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Grão",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Farinha",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   60
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  180     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/FL8NSCfvty0"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Grão",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Massa",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   25
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.84
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  46     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/SJ7uORconic"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Grão",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Grão-de-Bico",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   20
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.02
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  20.4     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/h83Rm3njjcg"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Grão",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Arroz",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.99
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  59.7     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/b-AYmZeowJQ"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Peixe",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Salmão",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   60
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  120     
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/dKhkCiD4zEQ"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Peixe",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Camarão",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":   18
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8.99
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  161.82
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/UNefAhXPvf4"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Peixe",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Dourada",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  25
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5.59
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  139.8
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1600175074394-f2f4c500f7ea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzh8fGdyaWxsZWQlMjBicmVhbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Peixe",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Linguado",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  25
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5.69
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  142.42
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Frango",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  160
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  3.20
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  512
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/calorias-frango-galinha-tabua-de-cortar-616353"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Bacon",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  70
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  560
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/fotografia-de-comida-de-bacon-com-fatias-de-pao-434283"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Bifes de Carne de Bovino",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  90
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8.99
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  809.1
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/carne-vermelha-com-pimenta-e-espinhos-verdes-65175"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Carne de Porco",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  30
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.89
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  56.85
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/RAoX-N4ZcK4"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Chouriço",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  24
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.73
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  41.52
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/photo/208450"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Carne",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Carne de Perú",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  32
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  5.79
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  185.28
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://www.pexels.com/pt-br/foto/pessoa-em-camisa-de-manga-longa-branca-cortando-carne-crua-5876356"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Coca-Cola",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  140
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.76
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  386.4
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1567705323043-d0e489de300d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTJ8fGJlZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cerveja Corona Extra",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  80
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  8.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  679.2
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1549231482-5cf39d19fba4?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGJlZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cerveja Heineken",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  100
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  4.99
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  499
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://unsplash.com/photos/HMimP8Jm_iI"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Cerveja Super Bock",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  300
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  6.49
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1947
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1585293624837-d0de6cc38530?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzN8fGJlZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Vinho Tinto",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  70
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.29
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  160.3
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1556710808-a2bc27a448f2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzd8fHdpbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Vinho Branco",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  70
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  2.29
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  160.3
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1553682544-4ccf2778c9a8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHdpbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          },
+          {              
+            "itemsinventory": [
+              {
+                "labels": {
+                  "displayName": "Bebidas",
+                  "languageCode": "pt"
+                  },
+                "labelsitems": {
+                  "displayName": "Água",
+                  "languageCode": "pt"
+                  },
+                "quantitySize": {
+                  "displayName": "Quantidade Necessária",
+                  "languageCode": "pt",
+                  "quantity":  900
+                },                
+                "unitPrice": {
+                "displayName": "Custo Unitário",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1.70
+                },
+                "totalPrice": {
+                "displayName": "Custo Total",
+                "languageCode": "pt",
+                "currencyCode": "EUR",
+                "units":  1530
+                },   
+                "mediaFormat": "FOTO",
+                "locationAssociation": {
+                "category": "CAPA"
+                },
+                "sourceUrl": "https://images.unsplash.com/photo-1544509925-a45ab789916b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8Ym90dGxlJTIwb2YlMjB3YXRlcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
+              }
+            ]
+          }  
+        ]
+      }
+    ]
+  }

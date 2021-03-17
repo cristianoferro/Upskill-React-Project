@@ -1,10 +1,16 @@
 import Item from "./Item.js"
+import {Link} from 'react-router-dom';
+import { useEffect, useState } from "react";
 
-const Inventário = ({items,
+
+
+const Inventario = ({items,
                 setItems,
                 inputRef,
                 submitClickHandler,
                 submit}) => {
+    
+
     return(
         <div className="inventario">
             <form className="inventario" onSubmit >
@@ -12,10 +18,10 @@ const Inventário = ({items,
                 <button onClick={submitClickHandler} type="submit">{submit}</button>
             </form>
             {
-        items.map((item) => <Item item={item} items={items} setItems={setItems}  key={item.id}/>)
+                items.map((item) => <Item item={item} items={items} setItems={setItems}  key={item.id}/>)
             }
         </div>
     )
 }
 
-export default Inventário;
+export default Inventario;

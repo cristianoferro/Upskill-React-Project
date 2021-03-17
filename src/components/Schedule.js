@@ -2,7 +2,6 @@ import Calendar from 'react-calendar'
 import React, { useState } from 'react';
 import 'react-calendar/dist/Calendar.css';
 
-
 function Schedule () {
     const [value, onChange] = useState(new Date())
 

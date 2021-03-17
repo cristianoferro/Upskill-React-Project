@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-
+import Background from './Background';
 
 const containerVariants = {
     hidden:{
@@ -61,7 +61,9 @@ const Login = () => {
                 
             </motion.form>
             <div className="initial-background"></div>
+            <Background/>
         </div>
+        
     )
 }
 
