@@ -187,20 +187,6 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
     // media queries
     const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
 
-<<<<<<< HEAD
-const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
-    return(
-        
-        <div>
-        <nav>
-            <Link to="/item-list" >Inventários</Link>
-            <Link to="/menus" >Menus</Link>
-            <Link to="/receitas" >Receitas</Link>
-            <Link to="/alertas" >Alertas</Link>
-            <Link to="">Search</Link>
-        </nav>
-        </div> 
-=======
     return(
         
         <motion.div
@@ -225,7 +211,6 @@ const MyKitchen = ({inputRef, submitClickHandler, submit}) => {
                 <MyKitchenMenu/>
                 
         </motion.div> 
->>>>>>> upstream/development
     )
 }
 
