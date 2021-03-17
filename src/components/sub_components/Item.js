@@ -1,6 +1,5 @@
 import s from "../../styles/Item.module.css"
 import styled from "styled-components"
-//import { useState } from "react";
 
 const Item = ({item, items, setItems}) => {
     const onRemoveHandler = (event) => {

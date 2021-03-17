@@ -61,7 +61,7 @@ function App() {
               <Statistics/>
             </Route>
             <Route path="/inventário">
-              <Inventário color="pink"
+              <Inventário color="orange"
                           items={items} 
                           setItems={setItems}
                           inputRef={inputRef}
