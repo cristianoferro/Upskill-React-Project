@@ -15,6 +15,7 @@ body {
   z-index: -10;
   width: 100vw;
   height: 100vh;
+  overflow: hidden;
   background: rgb(195, 238, 255);
   background: radial-gradient(
     circle,
@@ -47,6 +48,25 @@ select {
   border: 1px solid #ebebeb;
   box-shadow: #d3d3d333 0 0 1rem 0, #d3d3d333 0 0 1rem 0;
   border-radius: 2rem;
+}
+
+.expand-anim-container {
+  position: absolute;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  // display: none;
+  transform: scale(0);
+}
+.circle-cover-transition {
+  border-radius: 50%;
+  background-color: white;
+  width: 0;
+  height: 0;
+  box-shadow: #ffffff 0 0 1rem 2rem;
 }
 
 @import "./initial";

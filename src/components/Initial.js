@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import LogoAnimation from './LogoAnimation';
-
+import ExpandTransition from './ExpandTransition'
 const initialVariants = {
   hidden: {
     opacity:0,
@@ -25,7 +25,9 @@ const initialVariants = {
 }
 
 const Initial = () => {
-  
+    let initialMenuLinks = ['MyKitchen', 'Search', 'Schedule', 'Statistics'];
+    const [isMenuClicked, setIsMenuClicked] = useState(false)
+
     return(
       <div className="initial">
       
@@ -39,14 +41,20 @@ const Initial = () => {
               <nav className="initial-menu box-element">
                 <div className="nonsvg-v-line"></div>
                 <div className="nonsvg-h-line"></div>
-                <Link to="/mykitchen" className="menu-elem"><div>MyKitchen</div></Link>
-                <Link to="/search" className="menu-elem"><div>Search</div></Link>
-                <Link to="/schedule" className="menu-elem"><div>Schedule</div></Link>
-                <Link to="/statistics" className="menu-elem"><div>Statistics</div></Link>
+                {initialMenuLinks.map((menuElem,index) => (
+                  <Link to={"/",menuElem}
+                    className="menu-elem"
+                    key={index}
+                    onClick={() => setIsMenuClicked(!isMenuClicked)}
+                    >
+                      <div>{menuElem}</div>
+                  </Link>
+                ))}
               </nav>
             </motion.div>
+            <ExpandTransition isMenuClicked={isMenuClicked}/>
             
-            <div className="initial-background"></div>
+            
                 
       </div>
     )
