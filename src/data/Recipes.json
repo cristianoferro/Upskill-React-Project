@@ -10,11 +10,11 @@
           ],
           "recipessectionsFilter": [
               {
-                  "labelrecipessectionsFilter1": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Entrada e Petiscos",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter1": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe1": {
                               "displayName": "Hummus com Pão",
@@ -229,11 +229,11 @@
                   ]
               },
               {
-                  "labelrecipessectionsFilter2": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Pratos Principais",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter2": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe6": {                                                                                                             
                               "displayName": "Momo com Vegetais",
@@ -592,7 +592,7 @@
                       "displayName": "Menú de Almoço",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter3": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe11": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
@@ -1097,7 +1097,7 @@
                       "displayName": "Menú de Jantar",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter4": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe18": {                                                                                                             
                               "displayName": "Entrecosto de Porco Grelhado",
@@ -1526,7 +1526,7 @@
                       "displayName": "Bolos-Doces e Sobremesas",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter5": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe24": {                                                                                                             
                               "displayName": "Bolo de Chocolate e Baunilha",
@@ -1812,11 +1812,11 @@
                   ]        
               },
               {
-                  "labelrecipessectionsFilter6": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Carnes",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter6": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe2": {
                               "displayName": "Asas de Frango",
@@ -2451,11 +2451,11 @@
                   ]        
               },
               {
-                  "labelrecipessectionsFilter7": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Peixes",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter7": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe3": {
                               "displayName": "Salada de Polvo",
@@ -2740,11 +2740,11 @@
                   ]        
               },
               {
-                  "labelrecipessectionsFilter8": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Vegetarianos",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter8": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe1": {
                               "displayName": "Hummus com Pão",
@@ -3029,11 +3029,11 @@
                   ]        
               },
               {
-                  "labelrecipessectionsFilter9": {
+                  "labelrecipessectionsFilter": {
                       "displayName": "Económicos",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter9": [
+                  "itemsrecipessectionsFilter": [
                       {
                           "labelsrecipe1": {
                               "displayName": "Hummus com Pão",
@@ -3745,11 +3745,11 @@
                   ]        
               },                                
               {
-                  "labelrecipessectionsFilter10": {
+                  "labelrecipessectionsFilter0": {
                       "displayName": "Pizzas",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter10": [
+                  "itemsrecipessectionsFilter0": [
                       {
                           "labelsrecipe11": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
@@ -3894,11 +3894,11 @@
                   ]        
               },
               {
-                  "labelrecipessectionsFilter11": {
+                  "labelrecipessectionsFilter1": {
                       "displayName": "Pastas",
                       "languageCode": "pt"
                   },
-                  "itemsrecipessectionsFilter11": [
+                  "itemsrecipessectionsFilter1": [
                       {
                           "labelsrecipe6": {                                                                                                             
                               "displayName": "Momo com Vegetais",
