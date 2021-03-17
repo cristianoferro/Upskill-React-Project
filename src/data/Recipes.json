@@ -10,13 +10,11 @@
           ],
           "recipessectionsFilter": [
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Entrada e Petiscos",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {
+                        "labelsrecipessectionsFilter": "Entrada e Petiscos",
+                        "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -86,7 +84,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
                         
-                          },{"labelsrecipe": {
+                          },{"labelsrecipessectionsFilter": "Entrada e Petiscos",
+                        "labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -156,7 +155,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {
+                          },{"labelsrecipessectionsFilter": "Entrada e Petiscos",
+                        "labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -229,13 +229,11 @@
                   ]
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Pratos Principais",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Pratos Principais",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -305,7 +303,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pratos Principais",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -375,7 +374,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pratos Principais",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -445,7 +445,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/12eHC6FxPyg"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pratos Principais",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Carne de Porco com Espinafres e Batata Cozida",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -515,7 +516,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-cooked-food-3659862"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pratos Principais",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Linguado Grelhado com Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -588,13 +590,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Menú de Almoço",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -664,7 +664,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -734,7 +735,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/_0JpjeqtSyg"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -804,7 +806,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Tosta de Ovo e Abacate",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -880,7 +883,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/fdlZBWIP0aM"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -950,7 +954,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Quiche de Ovos e Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1020,7 +1025,8 @@
                               },
                               "sourceUrl": "https://unsplash.com/photos/Jw4rKiZFiSM"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Almoço",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Bife de Bovino com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1093,13 +1099,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Menú de Jantar",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Entrecosto de Porco Grelhado",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1169,7 +1173,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Salmão com Courgettes e Melancia",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1239,7 +1244,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Espetadas de Carne de Perú e Camarão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1309,7 +1315,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Frango Grelhado com Salada e Batatas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1379,7 +1386,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Costeletão de Porco",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1449,7 +1457,8 @@
                               },
                               "sourceUrldish": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Menú de Jantar",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Dourada do Mar Grelhada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1522,13 +1531,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Bolos-Doces e Sobremesas",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Bolos-Doces e Sobremesas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Bolo de Chocolate e Baunilha",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1598,7 +1605,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/slice-cake-1854652/"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Bolos-Doces e Sobremesas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Panquecas com Banana e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1669,7 +1677,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/zcUgjyqEwe8"
 
-                          },{"labelsrecipe": {
+                          },{"labelsrecipessectionsFilter": "Bolos-Doces e Sobremesas",
+                        "labelsrecipe": {
                               "displayName": "Bolo de Amora",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1739,7 +1748,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/Mzy-OjtCI70"
 
-                          },{"labelsrecipe": {                                
+                          },{"labelsrecipessectionsFilter": "Bolos-Doces e Sobremesas",
+                        "labelsrecipe": {                                
                               "displayName": "Crepes com Gelado de Manga e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1812,13 +1822,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Carnes",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {
+                        "labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1888,7 +1896,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Carne de Porco com Espinafres e Batata Cozida",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -1958,7 +1967,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-cooked-food-3659862"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2028,7 +2038,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2098,7 +2109,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Bife de Bovino com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2168,7 +2180,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/shallow-focus-photography-of-meat-dish-and-leaves-1251208"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Entrecosto de Porco Grelhado",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2238,7 +2251,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/photo-of-grilled-barbecue-3186654"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Espetadas de Carne de Perú e Camarão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2308,7 +2322,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"  
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Frango Grelhado com Salada e Batatas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2378,7 +2393,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Carnes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Costeletão de Porco",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2451,13 +2467,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Peixes",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {
+                        "labelsrecipessectionsFilter": "Peixes",
+                        "labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2527,7 +2541,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Peixes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Linguado Grelhado com Brócolos",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2597,7 +2612,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/5741445/pexels-photo-5741445.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Peixes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Salmão com Courgettes e Melancia",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2667,7 +2683,8 @@
                               },
                               "sourceUrlrecipe": "https://images.pexels.com/photos/842142/pexels-photo-842142.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Peixes",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Dourada do Mar Grelhada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2740,12 +2757,10 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Vegetarianos",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
+                        "labelsrecipessectionsFilter": "Vegetarianos",
                           "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
@@ -2816,7 +2831,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Vegetarianos",
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2886,7 +2902,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Vegetarianos",
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -2956,7 +2973,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Vegetarianos",
+                          "labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3029,13 +3047,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Económicos",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {
+                        "labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {
                               "displayName": "Hummus com Pão",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3105,7 +3121,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGVudHJpZXMlMjBhbmQlMjBzbmFja3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {
                               "displayName": "Asas de Frango",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3175,7 +3192,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fGNoaWNrZW4lMjB3aW5nc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {
                               "displayName": "Salada de Polvo",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3245,7 +3263,8 @@
                               },
                               "sourceUrlrecipe": "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8b2N0b3B1cyUyMHNhbGFkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3315,7 +3334,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3385,7 +3405,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/_0JpjeqtSyg"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Hamburger com Batatas Fritas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3455,7 +3476,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Tosta de Ovo e Abacate",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3531,7 +3553,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/fdlZBWIP0aM"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Almôndegas com Arroz Malandrinho",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3601,7 +3624,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/OFismyezPnY"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Panquecas com Banana e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3672,7 +3696,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/zcUgjyqEwe8"
 
-                          },{"labelsrecipe": {                                
+                          },{"labelsrecipessectionsFilter": "Económicos",
+                        "labelsrecipe": {                                
                               "displayName": "Crepes com Gelado de Manga e Frutos Silvestres",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3745,13 +3770,11 @@
                   ]        
               },                                
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Pizzas",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Pizzas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Queijo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3821,7 +3844,8 @@
                               },
                               "sourceUrlrecipe": "https://www.pexels.com/photo/baking-cheese-cooking-crust-315755"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pizzas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Pizza de Chorizo e Azeitonas",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3894,13 +3918,11 @@
                   ]        
               },
               {
-                  "labelsrecipessectionsFilter": {
-                      "displayName": "Pastas",
-                      "languageCode": "pt"
-                  },
+
                   "itemsrecipessectionsFilter": [
                       {
-                          "labelsrecipe": {                                                                                                             
+                        "labelsrecipessectionsFilter": "Pastas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Momo com Vegetais",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -3970,7 +3992,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/LR559Dcst70"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pastas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Lasanha Vegetariana",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
@@ -4040,7 +4063,8 @@
                               },
                               "sourceUrlrecipe": "https://unsplash.com/photos/tiS31mvMQGU"
 
-                          },{"labelsrecipe": {                                                                                                             
+                          },{"labelsrecipessectionsFilter": "Pastas",
+                        "labelsrecipe": {                                                                                                             
                               "displayName": "Farfalle de Tomate com Salada",
                               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a ligula vel massa laoreet pharetra. Praesent sagittis suscipit volutpat. Phasellus iaculis nisi quis tincidunt aliquet. Donec dictum orci quis massa accumsan efficitur. Duis sit amet velit a nisl bibendum suscipit ac vel lorem. Vestibulum sit amet lacus eget nibh porta mattis. Vestibulum ut gravida enim. Morbi ut felis lorem. Etiam sollicitudin magna euismod ligula consequat, varius accumsan elit ornare. Ut pretium sem eget laoreet lobortis. Morbi aliquam interdum velit sit amet volutpat. Sed ultrices lectus at risus fringilla, id ornare massa tempor. Donec bibendum leo interdum orci gravida feugiat. In fermentum lacus ac elit euismod eleifend. Nullam vitae faucibus dui. Donec varius lobortis odio.",
                               "languageCode": "pt"
