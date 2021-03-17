@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch, useLocation } from "react-router-dom";
 import Login from './components/Login';
 import Initial from './components/Initial';
-import InterfaceContainer from './components/InterfaceContainer';
+import InterfaceContainer from './components/visual_components/InterfaceContainer';
 import { AnimatePresence } from 'framer-motion';
 import "./styles/App.scss";
 import MyKitchen from './components/MyKitchen';

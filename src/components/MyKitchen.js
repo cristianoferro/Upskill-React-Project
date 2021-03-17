@@ -6,7 +6,7 @@ import { useMediaQuery } from 'react-responsive'
 import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
 import defaultItemImg from '../media/images/0.jpg';
-import Close from './Close';
+import Close from './visual_components/Close';
 import inventory from '../data/inventory.json';
 import alerts from '../data/alerts.json';
 import recipes from '../data/Recipes.json';

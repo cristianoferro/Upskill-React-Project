@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import Background from './Background';
-import LogoAnimation from './LogoAnimation';
-import ExpandTransition from './ExpandTransition';
+import Background from './visual_components/Background';
+import LogoAnimation from './visual_components/LogoAnimation';
+import ExpandTransition from './visual_components/ExpandTransition';
 
 const initialVariants = {
   hidden: {
