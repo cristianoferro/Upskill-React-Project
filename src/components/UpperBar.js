@@ -1,7 +1,9 @@
 import { motion } from 'framer-motion';
 import home from '../media/icons/home.svg';
 import { Link } from 'react-router-dom';
-const UpperBar = ({globalVariants, children}) => {
+
+
+const UpperBar = ({buttonVariants, globalVariants, children}) => {
     
 
     return(
@@ -12,7 +14,12 @@ const UpperBar = ({globalVariants, children}) => {
                 exit="exit">
                     <div className="home-link">
                         <Link to="/initial">
-                            <img src={home} alt="home"></img>
+                            <motion.img src={home} alt="home"
+                                variants={buttonVariants}
+                                whileHover="hover"
+                            >
+
+                            </motion.img>
                         </Link>
                     </div>
                     

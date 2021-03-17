@@ -38,7 +38,6 @@ a {
   background: rgb(255, 255, 255);
 }
 
-
 input[type="text"],
 input[type="email"],
 input[type="password"],
@@ -53,16 +52,17 @@ select {
 
 // scrollbar
 ::-webkit-scrollbar {
-  width: 8px;
+  position: absolute;
+  width: 0.5vw;
 }
 
 ::-webkit-scrollbar-track {
-  border-radius: 10px;
-  background-color: #dddddd;
+  border-radius: 0.5rem;
+  background-color: #dddddd77;
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 10px;
+  border-radius: 0.5rem;
   background-color: #e6fdff;
 }
 
@@ -70,7 +70,7 @@ select {
 .box-element {
   background-color: #e6fdff;
   box-shadow: #d3d3d38a 0 0 1rem 0, #d3d3d38a 0 0 1rem 0;
-  border-radius: 2rem;
+  border-radius: 3vw;
 }
 
 .interface-container {
@@ -78,7 +78,7 @@ select {
   width: 93.75vw;
   height: 93.75vh;
   position: relative;
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   overflow: hidden;
 }
 
@@ -113,9 +113,9 @@ select {
   box-shadow: #ffffff 0 0 1rem 2rem;
 }
 
-.upper-bar{
+.upper-bar {
   height: 12.5vh;
-  border-bottom-left-radius:0% ;
+  border-bottom-left-radius: 0%;
   border-bottom-right-radius: 0%;
   display: flex;
   justify-content: center;
@@ -124,11 +124,13 @@ select {
   padding: 2rem 2rem;
 }
 
-.home-link{
+.home-link {
   width: 5vh;
   left: 3vw;
   position: absolute;
-  img{width: 100%;}
+  img {
+    width: 100%;
+  }
 }
 
 /* Portrait */
@@ -145,10 +147,9 @@ select {
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
 }
 
-
 @import "./initial";
 @import "./login";
 @import "./Inventario.scss";
 @import "./Item.module.css";
 @import "./MyKitchen.scss";
-@import "./SearchContainer"
+@import "./SearchContainer";
