@@ -55,12 +55,37 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Grão",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Água",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "ÁAzeite",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sementes de sésamo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Limão",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -196,12 +221,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Polvo",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Coentros",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeite",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -273,12 +313,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Água",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Farinha",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Ovos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Vegetais Sorteados",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -344,12 +399,47 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Massa Lasagne",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Natas",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Queijo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Cenoura",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Beringela",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Cebola",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alho",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -415,12 +505,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Massa Farfalle",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeite",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeitonas",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Tomate",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alface",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -486,12 +596,37 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Porco",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Espinafres",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alho",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Cebola",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Batata",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -557,12 +692,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Linguado",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Bróculos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeite",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -633,16 +783,31 @@
                               "ingredientsrecipe": [
                                   {
                                       "labels": [
-                                          {
-                                              "displayName": "Ingrediente 1",
-                                              "description": "",
-                                              "languageCode": "pt"
-                                          },
-                                          {
-                                              "displayName": "Ingredient 2",
-                                              "description":"",
-                                              "languageCode": "pt"
-                                          }
+                                        {
+                                            "displayName": "Cebola",
+                                            "description": "",
+                                            "languageCode": "pt"
+                                        },
+                                        {
+                                            "displayName": "Alho",
+                                            "description":"",
+                                            "languageCode": "pt"
+                                        },
+                                        {
+                                            "displayName": "Tomate",
+                                            "description":"",
+                                            "languageCode": "pt"
+                                        },
+                                        {
+                                            "displayName": "Queijo",
+                                            "description":"",
+                                            "languageCode": "pt"
+                                        },
+                                        {
+                                            "displayName": "Azeitonas",
+                                            "description":"",
+                                            "languageCode": "pt"
+                                        }
                                       ]
                                   }
                               ],
@@ -705,12 +870,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Cebola",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Alho",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Tomate",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Queijo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Chouriço",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeitonas",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -776,12 +961,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Porco",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alho",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Queijo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Óleo",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -853,12 +1058,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Ovos",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pão",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Abacate",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Vinagre",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -924,12 +1144,37 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Vaca",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Azeite",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Cebola",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alho",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Arroz",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -995,12 +1240,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Farinha",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Ovos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Natas",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Brocolos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Agua",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Manteiga",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1066,12 +1331,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Vaca",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Batatas",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Natas",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1143,12 +1423,17 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Porco",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1214,12 +1499,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Salmão",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Courgettes",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Melancia",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Ervas",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Limão",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1285,12 +1585,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Peru",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Camarão",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimentos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Nata",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1356,12 +1676,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Frango",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Alface",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Tomate",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Batatas",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1427,12 +1767,22 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Carne de Porco",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Abacaxi",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1499,11 +1849,21 @@
                                       "labels": [
                                           {
                                               "displayName": "Ingrediente 1",
-                                              "description": "",
+                                              "description": "Dourada",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Pimenta",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Ervas q.b",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1575,12 +1935,42 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Ovos",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Farinha trigo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Açucar",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Chocolate",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Aroma de Baunilha",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Sal",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Farinha Maizena",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Natas",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1647,12 +2037,27 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Açucar",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Ovos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Leite",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Óleo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Farinha",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1718,12 +2123,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Leite",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Amoras",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Açucar",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Ovos",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Farinha",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Manteiga",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
@@ -1789,12 +2214,32 @@
                                   {
                                       "labels": [
                                           {
-                                              "displayName": "Ingrediente 1",
+                                              "displayName": "Gelado de Manga",
                                               "description": "",
                                               "languageCode": "pt"
                                           },
                                           {
-                                              "displayName": "Ingredient 2",
+                                              "displayName": "Frutos Silvestres",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Farinha",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Óleo",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Leite",
+                                              "description":"",
+                                              "languageCode": "pt"
+                                          },
+                                          {
+                                              "displayName": "Ovos",
                                               "description":"",
                                               "languageCode": "pt"
                                           }
