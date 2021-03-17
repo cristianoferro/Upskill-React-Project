@@ -6,9 +6,6 @@ import InterfaceContainer from './components/InterfaceContainer';
 import { AnimatePresence } from 'framer-motion';
 import "./styles/App.scss";
 import MyKitchen from './components/MyKitchen';
-import Schedule from './components/Schedule';
-import Statistics from './components/Statistics';
-import Search from './components/Search';
 import Inventario from './components/sub_components/Inventario';
 import { useState, useRef } from "react";
 import { uuid } from 'uuidv4';
@@ -71,25 +68,10 @@ function App() {
             </Route>
             <InterfaceContainer globalVariants={globalVariants}>
               <Route path="/mykitchen">
-                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} globalVariants={globalVariants}>
-                </MyKitchen>
-              </Route>
-              <Route path="/schedule">
-                <Schedule/>
-              </Route>
-              <Route path="/search">
-                <Search/>
-              </Route>
-              <Route path="/statistics">
-                <Statistics/>
+                <MyKitchen globalVariants={globalVariants}/>
               </Route>
               <Route path="/inventario">
-                <Inventario color="pink"
-                            items={items} 
-                            setItems={setItems}
-                            inputRef={inputRef}
-                            submitClickHandler={submitClickHandler}
-                            submit={submit}/>
+                <Inventario/>
               </Route>
             </InterfaceContainer>
           </Switch>

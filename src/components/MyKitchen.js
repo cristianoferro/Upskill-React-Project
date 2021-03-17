@@ -2,7 +2,6 @@ import MyKitchenMenu from './MyKitchenMenu';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from "react";
 import { useMediaQuery } from 'react-responsive'
-
 import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
 import defaultItemImg from '../media/images/0.jpg';
@@ -24,7 +23,7 @@ const useStorageRetriever = (key, initialState) => {
   
    };
 
-const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, children}) => {
+const MyKitchen = ({globalVariants, children}) => {
     
     
     // console.log(alerts.alerts[0].alertsitems[0])
