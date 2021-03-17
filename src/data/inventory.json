@@ -11,6 +11,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"1",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -47,6 +48,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"2",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -83,6 +85,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"3",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -119,6 +122,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"4",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -155,6 +159,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"5",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -191,6 +196,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"6",
                 "labels": {
                   "displayName": "Equipamento de Capital",
                   "languageCode": "pt"
@@ -227,6 +233,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"7",
                 "labels": {
                   "displayName": "Equipamento Principal",
                   "languageCode": "pt"
@@ -263,6 +270,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"8",
                 "labels": {
                   "displayName": "Equipamento Principal",
                   "languageCode": "pt"
@@ -299,6 +307,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"9",
                 "labels": {
                   "displayName": "Equipamento Secundário",
                   "languageCode": "pt"
@@ -335,6 +344,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"10",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -371,6 +381,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"11",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -407,6 +418,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"12", 
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -443,6 +455,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"13",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -479,6 +492,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"14",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -515,6 +529,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"15",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -551,6 +566,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"16",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -587,6 +603,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"17",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -623,6 +640,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"18",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -659,6 +677,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"19",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -695,6 +714,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"20",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -731,6 +751,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"21",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -767,6 +788,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"22",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -803,6 +825,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"23",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -839,6 +862,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"24",
                 "labels": {
                   "displayName": "Cutelaria/Utensílios",
                   "languageCode": "pt"
@@ -875,6 +899,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"25",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -911,6 +936,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"26",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -947,6 +973,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"27",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -983,6 +1010,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"28",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1019,6 +1047,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"29",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1055,6 +1084,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"30",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1091,6 +1121,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"31",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1127,6 +1158,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"32",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1163,6 +1195,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"33",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1199,6 +1232,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"34",
                 "labels": {
                   "displayName": "Condimento",
                   "languageCode": "pt"
@@ -1235,6 +1269,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"35",
                 "labels": {
                   "displayName": "Lacticínios",
                   "languageCode": "pt"
@@ -1271,6 +1306,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"36",
                 "labels": {
                   "displayName": "Lacticínios",
                   "languageCode": "pt"
@@ -1307,6 +1343,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"37",
                 "labels": {
                   "displayName": "Lacticínios",
                   "languageCode": "pt"
@@ -1343,6 +1380,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"38",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1380,6 +1418,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"39",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1416,6 +1455,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"40",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1452,6 +1492,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"41",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1488,6 +1529,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"42",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1525,6 +1567,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"43",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1561,6 +1604,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"44",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1597,6 +1641,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"45",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1633,6 +1678,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"46",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1669,6 +1715,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"47",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1705,6 +1752,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"48",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1741,6 +1789,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"49",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1777,6 +1826,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"50",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1813,6 +1863,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"51",
                 "labels": {
                   "displayName": "Fruta",
                   "languageCode": "pt"
@@ -1849,6 +1900,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"52",
                 "labels": {
                   "displayName": "Hortaliça",
                   "languageCode": "pt"
@@ -1885,6 +1937,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"53",
                 "labels": {
                   "displayName": "Hortaliça",
                   "languageCode": "pt"
@@ -1921,6 +1974,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"54",
                 "labels": {
                   "displayName": "Hortaliça",
                   "languageCode": "pt"
@@ -1957,6 +2011,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"55",
                 "labels": {
                   "displayName": "Hortaliça",
                   "languageCode": "pt"
@@ -1993,6 +2048,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"56",
                 "labels": {
                   "displayName": "Grão",
                   "languageCode": "pt"
@@ -2029,6 +2085,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"57",
                 "labels": {
                   "displayName": "Grão",
                   "languageCode": "pt"
@@ -2065,6 +2122,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"58",
                 "labels": {
                   "displayName": "Grão",
                   "languageCode": "pt"
@@ -2101,6 +2159,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"59",
                 "labels": {
                   "displayName": "Grão",
                   "languageCode": "pt"
@@ -2137,6 +2196,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"60",
                 "labels": {
                   "displayName": "Peixe",
                   "languageCode": "pt"
@@ -2173,6 +2233,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"61",
                 "labels": {
                   "displayName": "Peixe",
                   "languageCode": "pt"
@@ -2209,6 +2270,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"62",
                 "labels": {
                   "displayName": "Peixe",
                   "languageCode": "pt"
@@ -2245,6 +2307,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"63",
                 "labels": {
                   "displayName": "Peixe",
                   "languageCode": "pt"
@@ -2281,6 +2344,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"64",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2317,6 +2381,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"65",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2353,6 +2418,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"66",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2389,6 +2455,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"67",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2425,6 +2492,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"68",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2461,6 +2529,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"69",
                 "labels": {
                   "displayName": "Carne",
                   "languageCode": "pt"
@@ -2497,6 +2566,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"70",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2533,6 +2603,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"71",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2569,6 +2640,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"72",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2605,6 +2677,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"73",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2641,6 +2714,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"74",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2677,6 +2751,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"75",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
@@ -2713,6 +2788,7 @@
           {              
             "itemsinventory": [
               {
+                "id":"76",
                 "labels": {
                   "displayName": "Bebidas",
                   "languageCode": "pt"
