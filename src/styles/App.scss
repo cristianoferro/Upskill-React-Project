@@ -121,6 +121,7 @@ select {
   align-items: center;
   position: relative;
   padding: 2rem 2rem;
+  z-index: 1000;
 }
 
 .home-link {
@@ -157,3 +158,4 @@ select {
 @import "./Statistics.scss";
 @import "./SearchContainer";
 @import "./items";
+@import "./itemDetail";

@@ -22,7 +22,7 @@ const useStorageRetriever = (key, initialState) => {
 
    };
 
-const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, globalVariants, children}) => {
+const MyKitchen = ({buttonVariants, globalVariants, children}) => {
 
 
     // the in local storage will be 'search', the initial value will be 'React'
