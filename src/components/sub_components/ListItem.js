@@ -14,26 +14,28 @@ const ListItem = ({ k, id, item, expanded, setExpanded, isPortrait, buttonVarian
     }
     return(
         <>
-            <motion.div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
-                onClick={() => clickItem(id)}
-                variants={buttonVariants}
-                whileHover="hoverSmaller">
+            <div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
+                onClick={() => clickItem(id)}>
                 <div>
-                    <span>{item.Nome_do_Item}</span>
-                    <span>{item.Nome_do_Item}</span>
+                    <div className="item-title"><span>{item.labelsrecipe.displayName}</span></div>
+                    <div className="item-category"><span>{item.labelsrecipessectionsFilter}</span></div>
                 </div>
 
-            <div className="item-img"><img src={item.image ? item.image : defaultItemImg} alt=""/></div>
+            <motion.div className="item-img"
+                variants={buttonVariants}
+                whileHover="hoverSmaller">
+                <img src={item.sourceUrlrecipe ? item.sourceUrlrecipe : defaultItemImg} alt=""/>
             </motion.div>
+            </div>
             <div className={id === expanded && !itemIsClosed ? "item-detail" : "item-detail-hidden"}>
                 <Close closeItem={closeItem} />
-                <span>{item.Nome_do_Item}</span>
-                <span>{item.Tipo_de_Item}</span>
-                <span>{item.Quantidade_Necessária}</span>
-                <span>{item.Custo_Unitário}</span>
-                <span>{item.Moeda_do_Preço}</span>
-                <span>{item.Custo_Total}</span>
-                <div className="item-img-detail"><img src={item.image ? item.image : defaultItemImg} alt=""/></div>
+                <span>{item.id}</span>
+                <span>{item.labelsrecipessectionsFilter}</span>
+                <span className="recipe-description">{item.labelsrecipe.displayName}</span>
+                <span>{item.labelsrecipe.description}</span>
+                <span>{item.nutritionFactsrecipe.calories.lowerAmount}</span>
+                <span>{item.nutritionFactsrecipe.calories.upperAmount}</span>
+                <div className="item-img-detail"><img src={item.sourceUrlrecipe ? item.sourceUrlrecipe : defaultItemImg} alt=""/></div>
             </div>
         </>
   );

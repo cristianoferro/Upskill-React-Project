@@ -24,6 +24,19 @@ const useStorageRetriever = (key, initialState) => {
 
 const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, globalVariants, children}) => {
 
+
+    // the in local storage will be 'search', the initial value will be 'React'
+    const [searchTerm, setSearchTerm] = useStorageRetriever(
+        'search',
+        ''
+    );
+    // onChange of the input, a new term is set.
+    const handleSearch = event => {
+        setSearchTerm(event.target.value);
+    };
+
+
+
     //Função de filtro do tipo
     const allInventoryitems = inventory.inventory[0].inventoryitems
     // console.log(fruta);
@@ -35,28 +48,30 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, global
     console.log(fruta.map(elemeee =>{return elemeee[0]}).filter((v, i, a) => a.indexOf(v) === i));
     
 
-    // the in local storage will be 'search', the initial value will be 'React'
-    const [searchTerm, setSearchTerm] = useStorageRetriever(
-        'search',
-        ''
-    );
-
-    // onChange of the input, a new term is set.
-    const handleSearch = event => {
-        setSearchTerm(event.target.value);
-    };
-
-    const searchedRecipes = alerts.alerts[0].alertsitems.filter(Alerts =>
+    const searchedInventario = alerts.alerts[0].alertsitems.filter(Alerts =>
         Alerts.itemsalert[0].labels.displayName.includes(searchTerm.toLowerCase()) ||
         Alerts.itemsalert[0].quantitySize.quantity.toString().includes(searchTerm.toLowerCase())
     );
+    console.log("inventario",searchedInventario)
     
-    const searchedInventario = recipes.recipes[0].recipessectionsFilter.map(searchedSections => {
-            return searchedSections.itemsrecipessectionsFilter.filter(searchedRecipes => {
-              searchedRecipes.labelsrecipe.displayName.includes(searchTerm.toLowerCase())
-        })
-    });
 
+    // const recipesBySection = recipes.recipes[0].recipessectionsFilter.flatMap(searchedSections => {
+    //         return searchedSections.itemsrecipessectionsFilter.map(searchedRecipes => {
+    //           return [searchedRecipes.id, 
+    //             searchedRecipes.labelsrecipessectionsFilter]
+    //     })
+    // });
+    const allSearchedRecipes = recipes.recipes[0].recipessectionsFilter.flatMap(searchedSections => {
+        return searchedSections.itemsrecipessectionsFilter.map(allRecipes => {
+            return allRecipes
+        
+    })
+});
+
+    const searchedRecipes = allSearchedRecipes.filter(allRec =>
+        allRec.labelsrecipe.displayName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        allRec.labelsrecipessectionsFilter.toLowerCase().includes(searchTerm.toLowerCase())
+        );
     const searchedAlerts = alerts.alerts[0].alertsitems.filter(Alerts =>
         Alerts.itemsalert[0].labels.displayName.includes(searchTerm.toLowerCase()) ||
         Alerts.itemsalert[0].quantitySize.quantity.toString().includes(searchTerm.toLowerCase())
@@ -68,9 +83,9 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, global
     //         searchedRecipes.nutritionFactsrecipe.calories.upperAmount.toString().includes(searchTerm.toLowerCase())
     //     })
     // })
-    // console.log(abc);
+    // console.log("abc",abc);
 
-    //Função de filtro seccoes
+    //Função de filtro seccoes, nome da receita
     const allRecipeFilters = recipes.recipes[0].recipessectionsFilter
     
     const recipeSections =  allRecipeFilters.map(element => {
@@ -79,7 +94,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, global
         })
     })
     console.log(recipeSections);
-    //Função de filtro nome da receita
+    
 
     const [expanded, setExpanded] = useState();
 
@@ -105,7 +120,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, global
                     <button onClick={submitClickHandler} type="submit">{submit}</button>
                 </form> */}
 
-                <List results={"Resultados Inventário"} invetarioList={searchedInventario} recepesList={searchedRecipes} alertsList={searchedAlerts} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} buttonVariants={buttonVariants} />
+                <List results={"Resultados em Receitas"} list={searchedRecipes} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} buttonVariants={buttonVariants} />
                 <div className="cover-scroll"></div>
                 <MyKitchenMenu/>
 
