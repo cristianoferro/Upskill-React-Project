@@ -1,8 +1,9 @@
 import defaultItemImg from '../../media/images/0.jpg';
 import Close from '../visual_components/Close';
 import { useState } from "react";
+import {motion} from 'framer-motion'
 
-const ListItem = ({ k, id, item, expanded, setExpanded, isPortrait}) => {
+const ListItem = ({ k, id, item, expanded, setExpanded, isPortrait, buttonVariants}) => {
     const [itemIsClosed, setItemIsClosed] = useState(true);
     const closeItem = () =>{
         setItemIsClosed(true)
@@ -13,15 +14,17 @@ const ListItem = ({ k, id, item, expanded, setExpanded, isPortrait}) => {
     }
     return(
         <>
-            <div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
-                onClick={() => clickItem(id)}>
+            <motion.div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
+                onClick={() => clickItem(id)}
+                variants={buttonVariants}
+                whileHover="hoverSmaller">
                 <div>
                     <span>{item.Nome_do_Item}</span>
                     <span>{item.Nome_do_Item}</span>
                 </div>
 
             <div className="item-img"><img src={item.image ? item.image : defaultItemImg} alt=""/></div>
-            </div>
+            </motion.div>
             <div className={id === expanded && !itemIsClosed ? "item-detail" : "item-detail-hidden"}>
                 <Close closeItem={closeItem} />
                 <span>{item.Nome_do_Item}</span>

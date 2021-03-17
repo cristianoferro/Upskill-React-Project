@@ -34,6 +34,20 @@ function App() {
         ease: 'easeInOut' }
       },
   }
+  const buttonVariants = {
+    hover:{
+      scale:[1,1.3,1],
+      transition: { 
+        duration:0.5,
+        ease: 'easeInOut' }
+      },
+    hoverSmaller:{
+      scale:[1,1.1,1],
+      transition: { 
+        duration:0.5,
+        ease: 'easeInOut' }
+      },
+  }
   const location = useLocation();
 
   const inputRef = useRef(null);
@@ -71,7 +85,7 @@ function App() {
             </Route>
             <InterfaceContainer globalVariants={globalVariants}>
               <Route path="/mykitchen">
-                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} globalVariants={globalVariants}>
+                <MyKitchen inputRef={inputRef} submitClickHandler={submitClickHandler} submit={submit} buttonVariants={buttonVariants} globalVariants={globalVariants}>
                 </MyKitchen>
               </Route>
               <Route path="/schedule">

@@ -22,7 +22,7 @@ const useStorageRetriever = (key, initialState) => {
   
    };
 
-const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, children}) => {
+const MyKitchen = ({inputRef, submitClickHandler, submit, buttonVariants, globalVariants, children}) => {
     
     
     // console.log(alerts.alerts[0].alertsitems[0])
@@ -195,7 +195,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
 
                 {children}
                 
-                <UpperBar>
+                <UpperBar buttonVariants={buttonVariants} globalVariants={globalVariants}>
                     <SearchBar id="search" type = 'text' value={searchTerm} placeholder = 'Search' handleSearch={handleSearch}/>
                 </UpperBar>
 
@@ -204,7 +204,7 @@ const MyKitchen = ({inputRef, submitClickHandler, submit, globalVariants, childr
                     <button onClick={submitClickHandler} type="submit">{submit}</button>
                 </form> */}
 
-                <List results={"Resultados Inventário"} list={searchedInventario} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} />
+                <List results={"Resultados Inventário"} list={searchedInventario} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} buttonVariants={buttonVariants} />
                 <div className="cover-scroll"></div>
                 <MyKitchenMenu/>
                 

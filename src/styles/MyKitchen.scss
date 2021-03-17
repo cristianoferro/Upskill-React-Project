@@ -72,7 +72,7 @@
 .list-results {
   width: 80%;
   max-height: 75vh;
-  overflow-y: scroll;
+  overflow-y: overlay;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
