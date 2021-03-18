@@ -1,10 +1,10 @@
-import {Link} from 'react-router-dom';
 
-const MyKitchenMenu = () => {
+const MyKitchenMenu = ({setRecipesAsSearch, setInventoriesAsSearch, searchRecipes, searchInventories}) => {
+    
     return(
                 <nav className="mykitchen-menu box-element">
-                    <Link to="/inventario" >Inventários</Link>
-                    <Link to="/receitas" >Receitas</Link>
+                    <div className={searchInventories ? "toggle-main-search selected" : "toggle-main-search"} onClick={setInventoriesAsSearch}> Inventários</div>
+                    <div className={searchRecipes ? "toggle-main-search selected" : "toggle-main-search"} onClick={setRecipesAsSearch} >Receitas</div>
                 </nav>
                 
     )

@@ -1,7 +1,6 @@
 import MyKitchenMenu from './MyKitchenMenu';
 import { motion } from 'framer-motion';
 import { useEffect, useState } from "react";
-import { useMediaQuery } from 'react-responsive';
 
 import UpperBar from './UpperBar';
 import SearchBar from './SearchBar';
@@ -45,22 +44,13 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
             return elem.labels.displayName
         })
     })
-    console.log(fruta.map(elemeee =>{return elemeee[0]}).filter((v, i, a) => a.indexOf(v) === i));
     
 
     const searchedInventario = alerts.alerts[0].alertsitems.filter(Alerts =>
         Alerts.itemsalert[0].labels.displayName.includes(searchTerm.toLowerCase()) ||
         Alerts.itemsalert[0].quantitySize.quantity.toString().includes(searchTerm.toLowerCase())
     );
-    console.log("inventario",searchedInventario)
     
-
-    // const recipesBySection = recipes.recipes[0].recipessectionsFilter.flatMap(searchedSections => {
-    //         return searchedSections.itemsrecipessectionsFilter.map(searchedRecipes => {
-    //           return [searchedRecipes.id, 
-    //             searchedRecipes.labelsrecipessectionsFilter]
-    //     })
-    // });
     const allSearchedRecipes = recipes.recipes[0].recipessectionsFilter.flatMap(searchedSections => {
         return searchedSections.itemsrecipessectionsFilter.map(allRecipes => {
             return allRecipes
@@ -78,13 +68,6 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
     );
 
 
-    // const abc = recipes.recipes[0].recipessectionsFilter.filter(searchedSections => {
-    //     searchedSections.itemsrecipessectionsFilter.filter(searchedRecipes => {
-    //         searchedRecipes.nutritionFactsrecipe.calories.upperAmount.toString().includes(searchTerm.toLowerCase())
-    //     })
-    // })
-    // console.log("abc",abc);
-
     //Função de filtro seccoes, nome da receita
     const allRecipeFilters = recipes.recipes[0].recipessectionsFilter
     
@@ -93,13 +76,28 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
             return [elem.labelsrecipessectionsFilter, elem.labelsrecipe.displayName]
         })
     })
-    console.log(recipeSections);
     
 
     const [expanded, setExpanded] = useState();
 
-    // media queries
-    const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
+
+    //
+
+    const [searchInventories, setSearchInventories] = useState(false)
+    const [searchRecipes, setSearchRecipes] = useState(true)
+
+    const setRecipesAsSearch = () => {
+        setSearchInventories(false);
+        setSearchRecipes(true);
+        
+        
+    }
+    const setInventoriesAsSearch = () => {
+        setSearchRecipes(false);
+        setSearchInventories(true);
+        
+    }
+    
 
     return(
 
@@ -120,9 +118,9 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
                     <button onClick={submitClickHandler} type="submit">{submit}</button>
                 </form> */}
 
-                <List results={"Resultados em Receitas"} list={searchedRecipes} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait} buttonVariants={buttonVariants} />
+                <List results={"Resultados em Receitas"} searchedRecipes={searchedRecipes} searchedInventario={searchedInventario} expanded={expanded} setExpanded={setExpanded} buttonVariants={buttonVariants} searchRecipes={searchRecipes} searchInventories={searchInventories} />
                 <div className="cover-scroll"></div>
-                <MyKitchenMenu/>
+                <MyKitchenMenu setRecipesAsSearch={setRecipesAsSearch} setInventoriesAsSearch={setInventoriesAsSearch} searchRecipes={searchRecipes} searchInventories={searchInventories} />
 
         </motion.div>
     )

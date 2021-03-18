@@ -80,6 +80,18 @@
     font-size: 1rem;
   }
   .item-category {
-    font-size: 0.8rem;
+    font-size: 1rem;
+  }
+  .item-result {
+    height: 12vh;
+  }
+  .item-result {
+    width: 32.33%;
+    height: 15vh;
+  }
+  .item-detail {
+    svg {
+      width: 15%;
+    }
   }
 }

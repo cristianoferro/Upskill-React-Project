@@ -1,6 +1,18 @@
-import Item from './ListItem';
+import RecipeItem from './RecipeItem';
+import InventoryItem from './InventoryItem';
+import { useState } from "react";
 
-const List = ({ results, list, expanded, setExpanded, isPortrait, buttonVariants }) => (
+const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, searchInventories }) => {
+    const [itemIsClosed, setItemIsClosed] = useState(true);
+    const closeItem = () =>{
+        setItemIsClosed(true)
+    }
+    const clickItem = (id) => {
+        setExpanded(id)
+        setItemIsClosed(false)
+    }
+    return (
+    
     <div className="list-results">
         <h2 className="results-name">{results}</h2>
         <div className="main-filters">
@@ -12,9 +24,49 @@ const List = ({ results, list, expanded, setExpanded, isPortrait, buttonVariants
             <div className="filter-button">Quantidade</div>
             <div className="filter-button">Custo</div>
         </div>
-        {list.map((item, id) => <Item key={item.itemID} id={id} item={item} expanded={expanded} setExpanded={setExpanded} isPortrait={isPortrait}  buttonVariants={buttonVariants} />)}
-    </div>
+
+        {(function() {
+            console.log("searchInventories", searchInventories);
+            console.log("searchedRecipes", searchRecipes);
+          if (searchRecipes) {
+              
+            return searchedRecipes.map((item, id) => 
+                <RecipeItem 
+                    key={id} 
+                    id={id} 
+                    item={item} 
+                    expanded={expanded} 
+                    setExpanded={setExpanded} 
+                    isPortrait={isPortrait}  
+                    buttonVariants={buttonVariants} 
+                    searchRecipe={searchRecipes} 
+                    searchInventories={searchInventories} 
+                    clickItem={clickItem} 
+                    closeItem={closeItem} 
+                    itemIsClosed={itemIsClosed}/>);
+
+          } else if(searchInventories) {
+            return searchedInventario.map((invItem, InvId) => 
+                <InventoryItem 
+                    key={InvId} 
+                    id={InvId} 
+                    invItem={invItem} 
+                    expanded={expanded} 
+                    setExpanded={setExpanded} 
+                    isPortrait={isPortrait}  
+                    buttonVariants={buttonVariants} 
+                    searchRecipe={searchRecipes} 
+                    searchInventories={searchInventories} 
+                    clickItem={clickItem} 
+                    closeItem={closeItem} 
+                    itemIsClosed={itemIsClosed}/>);
+          }
+        })()}
+
+        
+         </div>
     
-)
+);
+}
 
 export default List;

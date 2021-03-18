@@ -30,9 +30,12 @@
   overflow-x: hidden;
   background-color: #eeeeee;
   svg {
-    width: 10%;
-    right: 5%;
-    position: absolute;
+    width: 7.5%;
+    right: 15%;
+    position: fixed;
+    background-color: #00000011;
+    border-radius: 3rem;
+    padding: 1vh 0;
   }
 }
 .detail-container {

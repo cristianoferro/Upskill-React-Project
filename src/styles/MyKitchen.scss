@@ -37,7 +37,7 @@
   right: 0;
   left: 0;
   margin: 0 auto;
-  a {
+  .toggle-main-search {
     height: 50%;
     border-right: 1px solid gray;
     width: 50%;
@@ -60,6 +60,10 @@
     &:last-child {
       border-right: none;
     }
+  }
+  .selected {
+    background-color: #4a7e92;
+    color: white;
   }
 }
 .cover-scroll {
@@ -107,13 +111,14 @@
 
 /* Portrait */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
-  .item-result {
-    width: 32.33%;
-    height: 15vh;
+  .results-name {
+    font-size: 4vw;
   }
-  .item-detail {
-    svg {
-      width: 15%;
-    }
+  .main-filters {
+    font-size: 2vw;
+  }
+  .mykitchen-menu {
+    width: 60%;
+    font-size: 5vw;
   }
 }
