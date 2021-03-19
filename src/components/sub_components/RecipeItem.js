@@ -3,12 +3,11 @@ import Close from '../visual_components/Close';
 import { useState } from "react";
 import {motion} from 'framer-motion';
 
-import { useMediaQuery } from 'react-responsive';
 
     
-const RecipeItem = ({k, id, item, expanded, setExpanded, buttonVariants, searchRecipes, searchInventories, clickItem, closeItem, itemIsClosed}) => {
+const RecipeItem = ({k, id, item, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, 
+    searchInventories, clickItem, closeItem, itemIsClosed}) => {
         // media queries
-    const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
 
     return(
                 <>

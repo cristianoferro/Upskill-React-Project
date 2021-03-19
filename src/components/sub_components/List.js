@@ -2,7 +2,7 @@ import RecipeItem from './RecipeItem';
 import InventoryItem from './InventoryItem';
 import { useState } from "react";
 
-const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, searchInventories }) => {
+const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpanded, buttonVariants, searchRecipes, searchInventories, isPortrait}) => {
     const [itemIsClosed, setItemIsClosed] = useState(true);
     const closeItem = () =>{
         setItemIsClosed(true)
@@ -25,11 +25,8 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
             <div className="filter-button">Custo</div>
         </div>
 
-        {(function() {
-            console.log("searchInventories", searchInventories);
-            console.log("searchedRecipes", searchRecipes);
+        {(() => {
           if (searchRecipes) {
-              
             return searchedRecipes.map((item, id) => 
                 <RecipeItem 
                     key={id} 
@@ -46,11 +43,13 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
                     itemIsClosed={itemIsClosed}/>);
 
           } else if(searchInventories) {
-            return searchedInventario.map((invItem, InvId) => 
-                <InventoryItem 
-                    key={InvId} 
-                    id={InvId} 
-                    invItem={invItem} 
+              
+            return searchedInventario.map((item, id) => 
+                    
+                    <InventoryItem 
+                    key={id} 
+                    id={id} 
+                    item={item} 
                     expanded={expanded} 
                     setExpanded={setExpanded} 
                     isPortrait={isPortrait}  
@@ -59,7 +58,8 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
                     searchInventories={searchInventories} 
                     clickItem={clickItem} 
                     closeItem={closeItem} 
-                    itemIsClosed={itemIsClosed}/>);
+                    itemIsClosed={itemIsClosed}/>
+            );
           }
         })()}
 
