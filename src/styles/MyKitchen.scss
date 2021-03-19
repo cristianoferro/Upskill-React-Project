@@ -72,6 +72,7 @@
   height: 6.25vh;
   bottom: 6.25vh;
   background: linear-gradient(#ffffff00, #eeeeee);
+  z-index: 10;
 }
 .list-results {
   width: 80%;
@@ -82,8 +83,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
+  padding-top: 7.5rem;
 }
-
+.fixed-results-topbar {
+  position: fixed;
+  z-index: 10;
+  background-color: #eeeeee;
+  width: inherit;
+  margin-top: -7.5rem;
+}
 .results-name {
   margin-top: 2vh;
   display: block;
@@ -106,7 +114,26 @@
   padding: 0 0.3vw;
   border-radius: 0.3rem;
   border: 1px solid #828282;
-  display: inline;
+  display: inline-block;
+  position: relative;
+  margin-top: 1vh;
+  background-color: white;
+  cursor: pointer;
+}
+
+// Filters
+.fliter-clicked {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 15vw;
+  span {
+    background-color: white;
+    margin-top: 0.5vh;
+  }
+}
+.filter-hidden {
+  display: none;
 }
 
 /* Portrait */

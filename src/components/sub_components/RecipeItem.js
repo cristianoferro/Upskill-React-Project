@@ -39,7 +39,7 @@ const RecipeItem = ({k, id, item, expanded, setExpanded, isPortrait, buttonVaria
                                 </div>
                                 <div className="simple-list">
                                     <span>Para {item.servesNumPeoplerecipe} pessoas</span>
-                                    <span>Método: fervido</span>
+                                    <span>Método:{item.preparationMethodsrecipe}</span>
                                 </div>
                             </div>
                             <div className="large-img-container">
