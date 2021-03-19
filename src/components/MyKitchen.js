@@ -51,25 +51,26 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
     // })
     const inventoryObjs = allInventoryitems.flatMap(elements =>{
         return elements[0]
-    });
-    console.log("inobs",inventoryObjs)
-    const searchedInventario = inventoryObjs.filter(allItems => {
+    }); 
+    const searchedInventario = inventoryObjs.filter(allItems => 
         
         allItems.labels.displayName.toLowerCase().includes(searchTerm.toLowerCase())||
         allItems.labelsitems.displayName.toLowerCase().includes(searchTerm.toLowerCase())
-    });
-    console.log("s",searchedInventario)
+        
+    );
     
+
     
     const allSearchedRecipes = recipes.recipes[0].recipessectionsFilter.flatMap(searchedSections => {
         return searchedSections.itemsrecipessectionsFilter.map(allRecipes => {
             return allRecipes
-    })
-});
+        })
+    });
+
     const searchedRecipes = allSearchedRecipes.filter(allRec =>
         allRec.labelsrecipe.displayName.toLowerCase().includes(searchTerm.toLowerCase()) ||
         allRec.labelsrecipessectionsFilter.toLowerCase().includes(searchTerm.toLowerCase())
-        );
+    );
 
 
     const searchedAlerts = alerts.alerts[0].alertsitems.filter(Alerts =>
@@ -90,15 +91,8 @@ const MyKitchen = ({buttonVariants, globalVariants, children}) => {
 
     const [expanded, setExpanded] = useState();
 
-    // const categoriaInventario = alerts.filter(item =>
-    //     item.Nome_do_Item.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    //     item.Tipo_de_Item.toLowerCase().includes(searchTerm.toLowerCase())
-    // );
-
-    // console.log(categoriaInventario);
-
-    const [searchInventories, setSearchInventories] = useState(true)
-    const [searchRecipes, setSearchRecipes] = useState(false)
+    const [searchInventories, setSearchInventories] = useState(false)
+    const [searchRecipes, setSearchRecipes] = useState(true)
     const [results, setResults] = useState("Resultados em Receitas")
     const setRecipesAsSearch = () => {
         setSearchInventories(false);

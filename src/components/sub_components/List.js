@@ -27,7 +27,6 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
 
         {(() => {
           if (searchRecipes) {
-              console.log(searchRecipes);
             return searchedRecipes.map((item, id) => 
                 <RecipeItem 
                     key={id} 
@@ -44,13 +43,13 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
                     itemIsClosed={itemIsClosed}/>);
 
           } else if(searchInventories) {
-              console.log("searchInventories",searchedInventario);
-            return searchedInventario.map((invItem, InvId) => 
-            
-                <InventoryItem 
-                    key={InvId} 
-                    id={InvId} 
-                    invItem={invItem} 
+              
+            return searchedInventario.map((item, id) => 
+                    
+                    <InventoryItem 
+                    key={id} 
+                    id={id} 
+                    item={item} 
                     expanded={expanded} 
                     setExpanded={setExpanded} 
                     isPortrait={isPortrait}  
@@ -59,7 +58,8 @@ const List = ({ results, searchedRecipes, searchedInventario, expanded, setExpan
                     searchInventories={searchInventories} 
                     clickItem={clickItem} 
                     closeItem={closeItem} 
-                    itemIsClosed={itemIsClosed}/>);
+                    itemIsClosed={itemIsClosed}/>
+            );
           }
         })()}
 

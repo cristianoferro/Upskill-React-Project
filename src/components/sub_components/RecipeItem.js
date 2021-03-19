@@ -5,9 +5,9 @@ import {motion} from 'framer-motion';
 
 
     
-const RecipeItem = ({k, id, item, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, searchInventories, clickItem, closeItem, itemIsClosed}) => {
+const RecipeItem = ({k, id, item, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, 
+    searchInventories, clickItem, closeItem, itemIsClosed}) => {
         // media queries
-    
 
     return(
                 <>

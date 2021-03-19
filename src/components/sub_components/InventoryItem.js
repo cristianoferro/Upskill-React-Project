@@ -6,12 +6,13 @@ import {motion} from 'framer-motion';
 const InventoryItem = ({k, id, item, expanded, setExpanded, isPortrait, buttonVariants, searchRecipes, searchInventories, clickItem, closeItem, itemIsClosed}) => {
 
     
+        console.log('inventory item: ', item, id);
     return(
         <>
-            <div>inventory</div>
             <div className={(isPortrait ? (id + 1) % 3 === 0 : (id + 1) % 4 === 0) ? "item-result no-margin-right" : "item-result"} 
                         onClick={() => clickItem(id)}>
                         <div>
+                            {console.log("undefined?",item)}
                             <div className="item-title"><span>{item.labelsitems.displayName}</span></div>
                             <div className="item-category"><span>{item.labels.displayName}</span></div>
                         </div>
